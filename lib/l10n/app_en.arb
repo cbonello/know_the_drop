@@ -39,6 +39,7 @@
       "percent": { "type": "int" }
     }
   },
+  "noQuestionsAvailable": "No questions available for this selection.",
   "quitQuiz": "Quit",
   "quitConfirmTitle": "Quit quiz?",
   "quitConfirmBody": "Your progress will be lost.",
@@ -46,5 +47,6 @@
   "quitConfirmNo": "Continue",
   "playAgain": "Play again",
   "goHome": "Go home",
+  "languageLabel": "Language",
   "photoCredit": "Photo: Takeaway / CC BY 4.0"
 }

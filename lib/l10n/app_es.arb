@@ -22,6 +22,7 @@
   "yourScore": "Tu puntuación",
   "scoreValue": "{score} / {total}",
   "accuracyPercent": "{percent}%",
+  "noQuestionsAvailable": "No hay preguntas disponibles para esta selección.",
   "quitQuiz": "Salir",
   "quitConfirmTitle": "¿Salir del quiz?",
   "quitConfirmBody": "Tu progreso se perderá.",
@@ -29,5 +30,6 @@
   "quitConfirmNo": "Continuar",
   "playAgain": "Jugar de nuevo",
   "goHome": "Ir al inicio",
+  "languageLabel": "Idioma",
   "photoCredit": "Foto: Takeaway / CC BY 4.0"
 }

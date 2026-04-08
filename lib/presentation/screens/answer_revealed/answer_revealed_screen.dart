@@ -24,7 +24,10 @@ class AnswerRevealedScreen extends ConsumerWidget {
           error: (e, _) => Center(child: Text('Error: $e')),
           data: (quizState) {
             if (quizState == null) {
-              return const Center(child: Text('No quiz in progress'));
+              WidgetsBinding.instance.addPostFrameCallback((_) {
+                if (context.mounted) context.go(AppRoutes.home);
+              });
+              return const SizedBox.shrink();
             }
 
             final question = quizState.currentQuestion;

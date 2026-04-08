@@ -7,6 +7,7 @@ import '../../../core/router/app_router.dart';
 import '../../../core/theme/app_theme.dart';
 import '../../../domain/entities/question.dart';
 import '../../../l10n/generated/app_localizations.dart';
+import '../../providers/locale_provider.dart';
 import '../../providers/quiz_provider.dart';
 
 class HomeScreen extends ConsumerWidget {
@@ -24,7 +25,12 @@ class HomeScreen extends ConsumerWidget {
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.center,
         children: [
-          const SizedBox(height: 48),
+          const SizedBox(height: 8),
+          Align(
+            alignment: Alignment.centerRight,
+            child: _MenuButton(),
+          ),
+          const SizedBox(height: 8),
           Text(l10n.appTitle, style: Theme.of(context).textTheme.headlineLarge),
           const SizedBox(height: 8),
           Text(
@@ -243,6 +249,52 @@ class _DifficultyChip extends ConsumerWidget {
         ref.read(selectedDifficultyProvider.notifier).state = isSelected
             ? value
             : null;
+      },
+    );
+  }
+}
+
+class _MenuButton extends ConsumerWidget {
+  const _MenuButton();
+
+  static const _locales = [
+    (locale: Locale('en'), label: 'English'),
+    (locale: Locale('es'), label: 'Español'),
+  ];
+
+  @override
+  Widget build(BuildContext context, WidgetRef ref) {
+    final l10n = AppLocalizations.of(context)!;
+    final current = ref.watch(localeProvider) ?? Localizations.localeOf(context);
+
+    return PopupMenuButton<String>(
+      icon: const Icon(Icons.menu, color: AppColors.lightGray),
+      color: AppColors.darkPurple,
+      itemBuilder: (context) => [
+        PopupMenuItem(
+          enabled: false,
+          child: Text(
+            l10n.languageLabel,
+            style: Theme.of(context).textTheme.labelLarge,
+          ),
+        ),
+        for (final entry in _locales)
+          PopupMenuItem(
+            value: entry.locale.languageCode,
+            child: Row(
+              children: [
+                if (current.languageCode == entry.locale.languageCode)
+                  const Icon(Icons.check, size: 18, color: AppColors.neonGreen)
+                else
+                  const SizedBox(width: 18),
+                const SizedBox(width: 12),
+                Text(entry.label),
+              ],
+            ),
+          ),
+      ],
+      onSelected: (langCode) {
+        ref.read(localeProvider.notifier).state = Locale(langCode);
       },
     );
   }

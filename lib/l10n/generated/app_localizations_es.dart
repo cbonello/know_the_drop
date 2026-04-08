@@ -81,6 +81,10 @@ class AppLocalizationsEs extends AppLocalizations {
   }
 
   @override
+  String get noQuestionsAvailable =>
+      'No hay preguntas disponibles para esta selección.';
+
+  @override
   String get quitQuiz => 'Salir';
 
   @override
@@ -100,6 +104,9 @@ class AppLocalizationsEs extends AppLocalizations {
 
   @override
   String get goHome => 'Ir al inicio';
+
+  @override
+  String get languageLabel => 'Idioma';
 
   @override
   String get photoCredit => 'Foto: Takeaway / CC BY 4.0';

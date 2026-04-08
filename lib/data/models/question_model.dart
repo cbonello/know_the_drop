@@ -64,7 +64,7 @@ class QuestionModel {
 
   static Difficulty _parseDifficulty(String value) => switch (value) {
     'casual' => Difficulty.casualFan,
-    'true' => Difficulty.trueFan,
+    'true_fan' => Difficulty.trueFan,
     'scholar' => Difficulty.scholar,
     _ => Difficulty.casualFan,
   };

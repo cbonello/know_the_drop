@@ -24,7 +24,23 @@ class QuestionScreen extends ConsumerWidget {
           error: (e, _) => Center(child: Text('Error: $e')),
           data: (quizState) {
             if (quizState == null) {
-              return const Center(child: Text('No questions available'));
+              return Center(
+                child: Column(
+                  mainAxisSize: MainAxisSize.min,
+                  children: [
+                    Text(
+                      l10n.noQuestionsAvailable,
+                      style: Theme.of(context).textTheme.bodyLarge,
+                      textAlign: TextAlign.center,
+                    ),
+                    const SizedBox(height: 24),
+                    ElevatedButton(
+                      onPressed: () => context.go(AppRoutes.home),
+                      child: Text(l10n.goHome),
+                    ),
+                  ],
+                ),
+              );
             }
 
             final question = quizState.currentQuestion;

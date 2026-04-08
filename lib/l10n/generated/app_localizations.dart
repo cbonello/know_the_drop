@@ -230,6 +230,12 @@ abstract class AppLocalizations {
   /// **'{percent}%'**
   String accuracyPercent(int percent);
 
+  /// No description provided for @noQuestionsAvailable.
+  ///
+  /// In en, this message translates to:
+  /// **'No questions available for this selection.'**
+  String get noQuestionsAvailable;
+
   /// No description provided for @quitQuiz.
   ///
   /// In en, this message translates to:
@@ -271,6 +277,12 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Go home'**
   String get goHome;
+
+  /// No description provided for @languageLabel.
+  ///
+  /// In en, this message translates to:
+  /// **'Language'**
+  String get languageLabel;
 
   /// No description provided for @photoCredit.
   ///
