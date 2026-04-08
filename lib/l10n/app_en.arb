@@ -1,0 +1,50 @@
+{
+  "@@locale": "en",
+  "appTitle": "Tiësto Trivia",
+  "homeSubtitle": "How well do you know the legend?",
+  "categoriesLabel": "CATEGORIES",
+  "categoryDiscography": "Discography",
+  "categoryBiography": "Biography",
+  "categoryEdmCulture": "EDM culture",
+  "difficultyLabel": "DIFFICULTY",
+  "difficultyCasualFan": "Casual fan",
+  "difficultyTrueFan": "True fan",
+  "difficultyScholar": "Scholar",
+  "yourBestScore": "Your best score",
+  "accuracy": "Accuracy",
+  "startQuiz": "Start quiz",
+  "questionOf": "Question {current} of {total}",
+  "@questionOf": {
+    "placeholders": {
+      "current": { "type": "int" },
+      "total": { "type": "int" }
+    }
+  },
+  "correctAnswer": "Correct!",
+  "wrongAnswer": "Wrong!",
+  "theAnswerWas": "The answer was:",
+  "nextQuestion": "Next question",
+  "quizComplete": "Quiz complete!",
+  "yourScore": "Your score",
+  "scoreValue": "{score} / {total}",
+  "@scoreValue": {
+    "placeholders": {
+      "score": { "type": "int" },
+      "total": { "type": "int" }
+    }
+  },
+  "accuracyPercent": "{percent}%",
+  "@accuracyPercent": {
+    "placeholders": {
+      "percent": { "type": "int" }
+    }
+  },
+  "quitQuiz": "Quit",
+  "quitConfirmTitle": "Quit quiz?",
+  "quitConfirmBody": "Your progress will be lost.",
+  "quitConfirmYes": "Quit",
+  "quitConfirmNo": "Continue",
+  "playAgain": "Play again",
+  "goHome": "Go home",
+  "photoCredit": "Photo: Takeaway / CC BY 4.0"
+}

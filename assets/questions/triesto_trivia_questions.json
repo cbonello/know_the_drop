@@ -1,0 +1,4206 @@
+{
+  "version": "1.0.0",
+  "total": 150,
+  "questions": [
+    {
+      "id": "bio_c_001",
+      "category": "biography",
+      "difficulty": "casual",
+      "question": {
+        "en": "What is Tiësto's real name?",
+        "es": "¿Cuál es el nombre real de Tiësto?"
+      },
+      "answers": {
+        "en": [
+          "Tijs Verwest",
+          "Tim Bergling",
+          "Nick van de Wall",
+          "Armin van Buuren"
+        ],
+        "es": [
+          "Tijs Verwest",
+          "Tim Bergling",
+          "Nick van de Wall",
+          "Armin van Buuren"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Tiësto was born Tijs Michiel Verwest on January 17, 1969, in Breda, Netherlands.",
+        "es": "Tiësto nació como Tijs Michiel Verwest el 17 de enero de 1969 en Breda, Países Bajos."
+      }
+    },
+    {
+      "id": "bio_c_002",
+      "category": "biography",
+      "difficulty": "casual",
+      "question": {
+        "en": "In which country was Tiësto born?",
+        "es": "¿En qué país nació Tiësto?"
+      },
+      "answers": {
+        "en": [
+          "Netherlands",
+          "Belgium",
+          "Germany",
+          "Sweden"
+        ],
+        "es": [
+          "Países Bajos",
+          "Bélgica",
+          "Alemania",
+          "Suecia"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Tiësto was born and raised in Breda, in the south of the Netherlands.",
+        "es": "Tiësto nació y creció en Breda, en el sur de los Países Bajos."
+      }
+    },
+    {
+      "id": "bio_c_003",
+      "category": "biography",
+      "difficulty": "casual",
+      "question": {
+        "en": "At which prestigious global event did Tiësto make history as the first DJ to perform in 2004?",
+        "es": "¿En qué evento global de prestigio fue Tiësto el primer DJ en actuar en 2004?"
+      },
+      "answers": {
+        "en": [
+          "Olympic Games",
+          "FIFA World Cup",
+          "Grammy Awards",
+          "Eurovision Song Contest"
+        ],
+        "es": [
+          "Juegos Olímpicos",
+          "Copa Mundial FIFA",
+          "Premios Grammy",
+          "Festival de Eurovisión"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Tiësto performed for 35,000 fans at the opening ceremony of the Athens Olympic Games in 2004 — the first DJ in Olympic history to do so.",
+        "es": "Tiësto actuó para 35.000 fans en la ceremonia de apertura de los Juegos Olímpicos de Atenas en 2004, siendo el primer DJ en la historia olímpica."
+      }
+    },
+    {
+      "id": "bio_c_004",
+      "category": "biography",
+      "difficulty": "casual",
+      "question": {
+        "en": "What genre of music made Tiësto world-famous?",
+        "es": "¿Qué género musical hizo famoso a Tiësto en todo el mundo?"
+      },
+      "answers": {
+        "en": [
+          "Trance",
+          "Hip-hop",
+          "Jazz",
+          "Classical"
+        ],
+        "es": [
+          "Trance",
+          "Hip-hop",
+          "Jazz",
+          "Clásica"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Tiësto rose to global fame through trance music in the late 1990s and early 2000s before expanding into other electronic genres.",
+        "es": "Tiësto alcanzó la fama mundial gracias a la música trance a finales de los 90 y principios de los 2000, antes de expandirse a otros géneros electrónicos."
+      }
+    },
+    {
+      "id": "bio_c_005",
+      "category": "biography",
+      "difficulty": "casual",
+      "question": {
+        "en": "What is the name of Tiësto's own record label?",
+        "es": "¿Cómo se llama el sello discográfico propio de Tiësto?"
+      },
+      "answers": {
+        "en": [
+          "Musical Freedom",
+          "Black Hole",
+          "Armada",
+          "Revealed"
+        ],
+        "es": [
+          "Musical Freedom",
+          "Black Hole",
+          "Armada",
+          "Revealed"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Tiësto founded Musical Freedom Records in 2009, signing artists across electronic music's many sub-genres.",
+        "es": "Tiësto fundó Musical Freedom Records en 2009, fichando artistas de muchos subgéneros de la música electrónica."
+      }
+    },
+    {
+      "id": "bio_c_006",
+      "category": "biography",
+      "difficulty": "casual",
+      "question": {
+        "en": "What is 'Club Life'?",
+        "es": "¿Qué es 'Club Life'?"
+      },
+      "answers": {
+        "en": [
+          "Tiësto's DJ mix podcast series",
+          "A documentary about Tiësto",
+          "His debut album",
+          "His record label"
+        ],
+        "es": [
+          "La serie de podcasts de mezclas de Tiësto",
+          "Un documental sobre Tiësto",
+          "Su álbum debut",
+          "Su sello discográfico"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Club Life is Tiësto's long-running weekly DJ mix podcast, launched in 2007, one of the most downloaded DJ podcasts in the world.",
+        "es": "Club Life es el exitoso podcast semanal de mezclas de DJ de Tiësto, lanzado en 2007, uno de los más descargados del mundo."
+      }
+    },
+    {
+      "id": "bio_c_007",
+      "category": "biography",
+      "difficulty": "casual",
+      "question": {
+        "en": "In which decade did Tiësto first rise to international fame?",
+        "es": "¿En qué década alcanzó Tiësto la fama internacional por primera vez?"
+      },
+      "answers": {
+        "en": [
+          "2000s",
+          "1990s",
+          "2010s",
+          "1980s"
+        ],
+        "es": [
+          "2000s",
+          "1990s",
+          "2010s",
+          "1980s"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Tiësto broke through internationally in the early 2000s with his Magik compilations and massive festival performances.",
+        "es": "Tiësto irrumpió internacionalmente a principios de los 2000 con sus compilaciones Magik y sus masivas actuaciones en festivales."
+      }
+    },
+    {
+      "id": "bio_c_008",
+      "category": "biography",
+      "difficulty": "casual",
+      "question": {
+        "en": "Tiësto is from which Dutch city?",
+        "es": "¿De qué ciudad holandesa es Tiësto?"
+      },
+      "answers": {
+        "en": [
+          "Breda",
+          "Amsterdam",
+          "Rotterdam",
+          "Utrecht"
+        ],
+        "es": [
+          "Breda",
+          "Ámsterdam",
+          "Róterdam",
+          "Utrecht"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Breda is a city in the Dutch province of North Brabant, where Tiësto grew up and started his DJ career.",
+        "es": "Breda es una ciudad en la provincia holandesa de Brabante Septentrional, donde Tiësto creció e inició su carrera como DJ."
+      }
+    },
+    {
+      "id": "bio_c_009",
+      "category": "biography",
+      "difficulty": "casual",
+      "question": {
+        "en": "Which prestigious DJ ranking voted Tiësto the #1 DJ in the world three consecutive years?",
+        "es": "¿Qué ranking de DJs votó a Tiësto como el DJ número 1 del mundo durante tres años consecutivos?"
+      },
+      "answers": {
+        "en": [
+          "DJ Magazine",
+          "Rolling Stone",
+          "Billboard",
+          "Mixmag"
+        ],
+        "es": [
+          "DJ Magazine",
+          "Rolling Stone",
+          "Billboard",
+          "Mixmag"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "DJ Magazine ranked Tiësto #1 in their annual Top 100 DJs poll in 2002, 2003, and 2004 — three years running.",
+        "es": "DJ Magazine ubicó a Tiësto como número 1 en su encuesta anual Top 100 DJs en 2002, 2003 y 2004, tres años consecutivos."
+      }
+    },
+    {
+      "id": "bio_c_010",
+      "category": "biography",
+      "difficulty": "casual",
+      "question": {
+        "en": "What year was Tiësto born?",
+        "es": "¿En qué año nació Tiësto?"
+      },
+      "answers": {
+        "en": [
+          "1969",
+          "1975",
+          "1980",
+          "1964"
+        ],
+        "es": [
+          "1969",
+          "1975",
+          "1980",
+          "1964"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Tiësto was born on January 17, 1969, making him one of the elder statesmen of modern electronic music.",
+        "es": "Tiësto nació el 17 de enero de 1969, lo que lo convierte en uno de los referentes de mayor trayectoria en la música electrónica moderna."
+      }
+    },
+    {
+      "id": "bio_c_011",
+      "category": "biography",
+      "difficulty": "casual",
+      "question": {
+        "en": "Which of these artists is a fellow Dutch DJ and close peer of Tiësto?",
+        "es": "¿Cuál de estos artistas es un DJ holandés compañero y cercano colega de Tiësto?"
+      },
+      "answers": {
+        "en": [
+          "Armin van Buuren",
+          "Calvin Harris",
+          "David Guetta",
+          "Skrillex"
+        ],
+        "es": [
+          "Armin van Buuren",
+          "Calvin Harris",
+          "David Guetta",
+          "Skrillex"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Armin van Buuren and Tiësto are both Dutch trance DJs who rose to fame around the same time and remain among the most recognized names in electronic music.",
+        "es": "Armin van Buuren y Tiësto son ambos DJs holandeses de trance que alcanzaron la fama aproximadamente al mismo tiempo y siguen siendo nombres de referencia en la música electrónica."
+      }
+    },
+    {
+      "id": "bio_c_012",
+      "category": "biography",
+      "difficulty": "casual",
+      "question": {
+        "en": "Which city hosted the Olympic Games where Tiësto performed?",
+        "es": "¿En qué ciudad se celebraron los Juegos Olímpicos donde actuó Tiësto?"
+      },
+      "answers": {
+        "en": [
+          "Athens",
+          "Beijing",
+          "Sydney",
+          "London"
+        ],
+        "es": [
+          "Atenas",
+          "Pekín",
+          "Sídney",
+          "Londres"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "The 2004 Summer Olympics were held in Athens, Greece, where Tiësto made history as the first DJ to perform at the Games.",
+        "es": "Los Juegos Olímpicos de Verano de 2004 se celebraron en Atenas, Grecia, donde Tiësto hizo historia como el primer DJ en actuar en los Juegos."
+      }
+    },
+    {
+      "id": "bio_c_013",
+      "category": "biography",
+      "difficulty": "casual",
+      "question": {
+        "en": "Tiësto launched Musical Freedom Records in which year?",
+        "es": "¿En qué año lanzó Tiësto Musical Freedom Records?"
+      },
+      "answers": {
+        "en": [
+          "2009",
+          "2005",
+          "2012",
+          "2015"
+        ],
+        "es": [
+          "2009",
+          "2005",
+          "2012",
+          "2015"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Musical Freedom was founded in 2009, initially distributed by Ultra Records, and has since become a major force in electronic music.",
+        "es": "Musical Freedom fue fundada en 2009, inicialmente distribuida por Ultra Records, y desde entonces se ha convertido en una fuerza importante en la música electrónica."
+      }
+    },
+    {
+      "id": "bio_c_014",
+      "category": "biography",
+      "difficulty": "casual",
+      "question": {
+        "en": "What is the special character in the name 'Tiësto' called?",
+        "es": "¿Cómo se llama el carácter especial en el nombre 'Tiësto'?"
+      },
+      "answers": {
+        "en": [
+          "Umlaut",
+          "Accent",
+          "Cedilla",
+          "Tilde"
+        ],
+        "es": [
+          "Diéresis",
+          "Acento",
+          "Cedilla",
+          "Tilde"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "The two dots over the ë are an umlaut (or diaeresis), a common feature in Dutch and German names that affects pronunciation.",
+        "es": "Los dos puntos sobre la ë se llaman diéresis, una característica común en nombres holandeses y alemanes que afecta la pronunciación."
+      }
+    },
+    {
+      "id": "bio_c_015",
+      "category": "biography",
+      "difficulty": "casual",
+      "question": {
+        "en": "Tiësto is best known as a…",
+        "es": "Tiësto es conocido principalmente como…"
+      },
+      "answers": {
+        "en": [
+          "DJ and music producer",
+          "Singer and songwriter",
+          "Film composer",
+          "Classical pianist"
+        ],
+        "es": [
+          "DJ y productor musical",
+          "Cantante y compositor",
+          "Compositor de cine",
+          "Pianista clásico"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "While Tiësto does collaborate with singers and occasionally sings himself, his primary identity is as a DJ and electronic music producer.",
+        "es": "Aunque Tiësto colabora con cantantes y ocasionalmente canta él mismo, su identidad principal es la de DJ y productor de música electrónica."
+      }
+    },
+    {
+      "id": "bio_c_016",
+      "category": "biography",
+      "difficulty": "casual",
+      "question": {
+        "en": "Which streaming platform launched a documentary about Tiësto's life?",
+        "es": "¿Qué plataforma de streaming lanzó un documental sobre la vida de Tiësto?"
+      },
+      "answers": {
+        "en": [
+          "Amazon Prime",
+          "Netflix",
+          "Disney+",
+          "Apple TV+"
+        ],
+        "es": [
+          "Amazon Prime",
+          "Netflix",
+          "Disney+",
+          "Apple TV+"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Amazon Prime released 'This Is Tiësto', a documentary that followed the DJ across his world tours and personal life.",
+        "es": "Amazon Prime lanzó 'This Is Tiësto', un documental que siguió al DJ en sus giras mundiales y vida personal."
+      }
+    },
+    {
+      "id": "bio_c_017",
+      "category": "biography",
+      "difficulty": "casual",
+      "question": {
+        "en": "Which island is most associated with Tiësto's early superstar DJ sets?",
+        "es": "¿Con qué isla se asocia más Tiësto por sus primeras actuaciones como DJ superestrella?"
+      },
+      "answers": {
+        "en": [
+          "Ibiza",
+          "Mykonos",
+          "Mallorca",
+          "Bali"
+        ],
+        "es": [
+          "Ibiza",
+          "Mykonos",
+          "Mallorca",
+          "Bali"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Ibiza has been central to Tiësto's career, with legendary summer residencies at clubs like Amnesia that helped cement his global reputation.",
+        "es": "Ibiza ha sido fundamental en la carrera de Tiësto, con legendarias residencias de verano en clubes como Amnesia que ayudaron a consolidar su reputación global."
+      }
+    },
+    {
+      "id": "bio_tf_001",
+      "category": "biography",
+      "difficulty": "true_fan",
+      "question": {
+        "en": "What is Tiësto's full birth name?",
+        "es": "¿Cuál es el nombre completo de nacimiento de Tiësto?"
+      },
+      "answers": {
+        "en": [
+          "Tijs Michiel Verwest",
+          "Tiësto Jan Verwest",
+          "Tijs Martin Verwest",
+          "Thomas Michiel Verwest"
+        ],
+        "es": [
+          "Tijs Michiel Verwest",
+          "Tiësto Jan Verwest",
+          "Tijs Martin Verwest",
+          "Thomas Michiel Verwest"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "His full legal name is Tijs Michiel Verwest. 'Tiësto' originated as a childhood nickname.",
+        "es": "Su nombre legal completo es Tijs Michiel Verwest. 'Tiësto' surgió como un apodo de la infancia."
+      }
+    },
+    {
+      "id": "bio_tf_002",
+      "category": "biography",
+      "difficulty": "true_fan",
+      "question": {
+        "en": "Which early record label was Tiësto closely associated with before founding Musical Freedom?",
+        "es": "¿Con qué sello discográfico estuvo estrechamente asociado Tiësto antes de fundar Musical Freedom?"
+      },
+      "answers": {
+        "en": [
+          "Black Hole Recordings",
+          "Armada Music",
+          "Spinnin' Records",
+          "Ultra Records"
+        ],
+        "es": [
+          "Black Hole Recordings",
+          "Armada Music",
+          "Spinnin' Records",
+          "Ultra Records"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Black Hole Recordings, a Dutch trance label, was instrumental in releasing Tiësto's early Magik compilations and singles.",
+        "es": "Black Hole Recordings, un sello holandés de trance, fue fundamental para lanzar las primeras compilaciones Magik y los sencillos de Tiësto."
+      }
+    },
+    {
+      "id": "bio_tf_003",
+      "category": "biography",
+      "difficulty": "true_fan",
+      "question": {
+        "en": "In which years was Tiësto voted #1 DJ in the world by DJ Magazine?",
+        "es": "¿En qué años fue Tiësto votado como el DJ número 1 del mundo por DJ Magazine?"
+      },
+      "answers": {
+        "en": [
+          "2002, 2003, 2004",
+          "2001, 2002, 2003",
+          "2003, 2004, 2005",
+          "2004, 2005, 2006"
+        ],
+        "es": [
+          "2002, 2003, 2004",
+          "2001, 2002, 2003",
+          "2003, 2004, 2005",
+          "2004, 2005, 2006"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Tiësto held the DJ Magazine #1 spot for three consecutive years — 2002, 2003, and 2004 — a remarkable feat in the competitive world of DJ rankings.",
+        "es": "Tiësto mantuvo el puesto número 1 de DJ Magazine durante tres años consecutivos: 2002, 2003 y 2004, un logro extraordinario en el competitivo mundo de los rankings de DJs."
+      }
+    },
+    {
+      "id": "bio_tf_004",
+      "category": "biography",
+      "difficulty": "true_fan",
+      "question": {
+        "en": "What was the name of Tiësto's famous early trance compilation series?",
+        "es": "¿Cómo se llamaba la famosa serie de compilaciones de trance de la etapa inicial de Tiësto?"
+      },
+      "answers": {
+        "en": [
+          "Magik",
+          "Elements",
+          "Sunrise",
+          "Infinity"
+        ],
+        "es": [
+          "Magik",
+          "Elements",
+          "Sunrise",
+          "Infinity"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "The Magik series (1997–2001) comprised seven volumes and established Tiësto as a leading figure in the global trance scene.",
+        "es": "La serie Magik (1997–2001) comprende siete volúmenes y consolidó a Tiësto como una figura líder en la escena global del trance."
+      }
+    },
+    {
+      "id": "bio_tf_005",
+      "category": "biography",
+      "difficulty": "true_fan",
+      "question": {
+        "en": "Tiësto started his Club Life podcast in which year?",
+        "es": "¿En qué año inició Tiësto su podcast Club Life?"
+      },
+      "answers": {
+        "en": [
+          "2007",
+          "2005",
+          "2009",
+          "2003"
+        ],
+        "es": [
+          "2007",
+          "2005",
+          "2009",
+          "2003"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Club Life launched in 2007 as a weekly radio show and podcast, reaching millions of listeners globally each week.",
+        "es": "Club Life se lanzó en 2007 como un programa de radio y podcast semanal, llegando a millones de oyentes en todo el mundo cada semana."
+      }
+    },
+    {
+      "id": "bio_tf_006",
+      "category": "biography",
+      "difficulty": "true_fan",
+      "question": {
+        "en": "Tiësto's 2004 Olympic performance was at which ceremony?",
+        "es": "¿En qué ceremonia fue la actuación olímpica de Tiësto en 2004?"
+      },
+      "answers": {
+        "en": [
+          "Opening ceremony",
+          "Closing ceremony",
+          "Athletes' party",
+          "Victory ceremony"
+        ],
+        "es": [
+          "Ceremonia de apertura",
+          "Ceremonia de clausura",
+          "Fiesta de atletas",
+          "Ceremonia de victoria"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Tiësto performed at the opening ceremony of the Athens 2004 Olympics, playing to 35,000 people in the stadium and a global television audience.",
+        "es": "Tiësto actuó en la ceremonia de apertura de los Juegos Olímpicos de Atenas 2004, tocando para 35.000 personas en el estadio y una audiencia televisiva global."
+      }
+    },
+    {
+      "id": "bio_tf_007",
+      "category": "biography",
+      "difficulty": "true_fan",
+      "question": {
+        "en": "Which alias did Tiësto use for his more progressive and minimal electronic releases?",
+        "es": "¿Qué alias usó Tiësto para sus lanzamientos electrónicos más progresivos y minimalistas?"
+      },
+      "answers": {
+        "en": [
+          "Allure",
+          "Kaleidoscope",
+          "Nyana",
+          "Circuit"
+        ],
+        "es": [
+          "Allure",
+          "Kaleidoscope",
+          "Nyana",
+          "Circuit"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Tiësto released music under the alias Allure, often for more progressive, deeper tracks distinct from his main Tiësto output.",
+        "es": "Tiësto publicó música bajo el alias Allure, generalmente para temas más progresivos y profundos, distintos de su producción principal como Tiësto."
+      }
+    },
+    {
+      "id": "bio_tf_008",
+      "category": "biography",
+      "difficulty": "true_fan",
+      "question": {
+        "en": "Tiësto's 'Elements of Life' World Tour took place in which year?",
+        "es": "¿En qué año tuvo lugar la gira mundial 'Elements of Life' de Tiësto?"
+      },
+      "answers": {
+        "en": [
+          "2007",
+          "2005",
+          "2009",
+          "2010"
+        ],
+        "es": [
+          "2007",
+          "2005",
+          "2009",
+          "2010"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "The Elements of Life World Tour in 2007 was one of the most ambitious electronic music tours of its era, supporting his album of the same name.",
+        "es": "La gira mundial Elements of Life en 2007 fue una de las giras de música electrónica más ambiciosas de su época, en apoyo a su álbum del mismo nombre."
+      }
+    },
+    {
+      "id": "bio_tf_009",
+      "category": "biography",
+      "difficulty": "true_fan",
+      "question": {
+        "en": "Which iconic Ibiza club was closely associated with Tiësto's summer residencies?",
+        "es": "¿Qué icónico club de Ibiza se asoció estrechamente con las residencias de verano de Tiësto?"
+      },
+      "answers": {
+        "en": [
+          "Amnesia",
+          "Pacha",
+          "Privilege",
+          "DC-10"
+        ],
+        "es": [
+          "Amnesia",
+          "Pacha",
+          "Privilege",
+          "DC-10"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Amnesia Ibiza was home to some of Tiësto's most legendary performances during his peak trance years in the early 2000s.",
+        "es": "Amnesia Ibiza fue el escenario de algunas de las actuaciones más legendarias de Tiësto durante sus mejores años de trance a principios de los 2000."
+      }
+    },
+    {
+      "id": "bio_tf_010",
+      "category": "biography",
+      "difficulty": "true_fan",
+      "question": {
+        "en": "In which genre did Tiësto transition after moving away from trance around 2011–2013?",
+        "es": "¿A qué género musical migró Tiësto después de alejarse del trance alrededor de 2011–2013?"
+      },
+      "answers": {
+        "en": [
+          "Electro house and big room",
+          "Drum and bass",
+          "Ambient techno",
+          "Indie pop"
+        ],
+        "es": [
+          "Electro house y big room",
+          "Drum and bass",
+          "Ambient techno",
+          "Indie pop"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Around 2011–2013 Tiësto shifted toward electro house and big room EDM, reflecting the broader commercial explosion of electronic music in the US market.",
+        "es": "Alrededor de 2011–2013, Tiësto se inclinó hacia el electro house y el big room EDM, reflejando la explosión comercial más amplia de la música electrónica en el mercado estadounidense."
+      }
+    },
+    {
+      "id": "bio_tf_011",
+      "category": "biography",
+      "difficulty": "true_fan",
+      "question": {
+        "en": "What was the name of Tiësto's long-running compilation series focused on chillout and ambient music?",
+        "es": "¿Cómo se llamaba la larga serie de compilaciones de Tiësto enfocada en música chillout y ambient?"
+      },
+      "answers": {
+        "en": [
+          "In Search of Sunrise",
+          "In My Memory",
+          "Just Be",
+          "Kaleidoscope"
+        ],
+        "es": [
+          "In Search of Sunrise",
+          "In My Memory",
+          "Just Be",
+          "Kaleidoscope"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "In Search of Sunrise is a series of chillout and ambient compilation albums curated or co-curated by Tiësto, spanning multiple volumes across many years.",
+        "es": "In Search of Sunrise es una serie de álbumes de compilación chillout y ambient curados o co-curados por Tiësto, con múltiples volúmenes a lo largo de muchos años."
+      }
+    },
+    {
+      "id": "bio_tf_012",
+      "category": "biography",
+      "difficulty": "true_fan",
+      "question": {
+        "en": "Tiësto's style transition in the 2010s led to collaborations with which type of artists?",
+        "es": "La transición de estilo de Tiësto en los años 2010 lo llevó a colaborar con qué tipo de artistas?"
+      },
+      "answers": {
+        "en": [
+          "Pop and hip-hop artists",
+          "Jazz musicians",
+          "Opera singers",
+          "Film score composers"
+        ],
+        "es": [
+          "Artistas de pop y hip-hop",
+          "Músicos de jazz",
+          "Cantantes de ópera",
+          "Compositores de bandas sonoras"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Tiësto's pivot to mainstream EDM brought collaborations with pop stars, rappers, and crossover artists, broadening his appeal well beyond the trance community.",
+        "es": "El giro de Tiësto hacia el EDM mainstream trajo colaboraciones con estrellas del pop, raperos y artistas crossover, ampliando su alcance mucho más allá de la comunidad del trance."
+      }
+    },
+    {
+      "id": "bio_tf_013",
+      "category": "biography",
+      "difficulty": "true_fan",
+      "question": {
+        "en": "Musical Freedom Records is distributed by which major music company?",
+        "es": "¿Por qué gran empresa musical está distribuida Musical Freedom Records?"
+      },
+      "answers": {
+        "en": [
+          "Universal Music Group",
+          "Sony Music",
+          "Warner Music Group",
+          "Independent"
+        ],
+        "es": [
+          "Universal Music Group",
+          "Sony Music",
+          "Warner Music Group",
+          "Independiente"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Musical Freedom is distributed by Universal Music Group, giving it global reach and resources across streaming and physical markets.",
+        "es": "Musical Freedom está distribuida por Universal Music Group, lo que le da alcance global y recursos en mercados de streaming y físicos."
+      }
+    },
+    {
+      "id": "bio_tf_014",
+      "category": "biography",
+      "difficulty": "true_fan",
+      "question": {
+        "en": "Tiësto has held a long-running Las Vegas residency at which venue?",
+        "es": "¿En qué lugar de Las Vegas ha tenido Tiësto una larga residencia?"
+      },
+      "answers": {
+        "en": [
+          "Hakkasan",
+          "XS Nightclub",
+          "Omnia",
+          "Wynn"
+        ],
+        "es": [
+          "Hakkasan",
+          "XS Nightclub",
+          "Omnia",
+          "Wynn"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Tiësto held one of Las Vegas's most celebrated DJ residencies at Hakkasan Nightclub at the MGM Grand, drawing massive crowds regularly.",
+        "es": "Tiësto tuvo una de las residencias de DJ más celebradas de Las Vegas en Hakkasan Nightclub en el MGM Grand, atrayendo grandes multitudes regularmente."
+      }
+    },
+    {
+      "id": "bio_tf_015",
+      "category": "biography",
+      "difficulty": "true_fan",
+      "question": {
+        "en": "Which country's Queen attended Tiësto's Athens Olympic performance according to popular accounts?",
+        "es": "¿La reina de qué país asistió a la actuación de Tiësto en los Juegos Olímpicos de Atenas, según relatos populares?"
+      },
+      "answers": {
+        "en": [
+          "Netherlands",
+          "Greece",
+          "United Kingdom",
+          "Spain"
+        ],
+        "es": [
+          "Países Bajos",
+          "Grecia",
+          "Reino Unido",
+          "España"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Queen Beatrix of the Netherlands was among the dignitaries present during Tiësto's historic Olympic set in Athens in 2004.",
+        "es": "La reina Beatriz de los Países Bajos estuvo entre los dignatarios presentes durante la histórica actuación olímpica de Tiësto en Atenas en 2004."
+      }
+    },
+    {
+      "id": "bio_tf_016",
+      "category": "biography",
+      "difficulty": "true_fan",
+      "question": {
+        "en": "Before becoming a headlining DJ, Tiësto ran a record store. In which city?",
+        "es": "Antes de convertirse en DJ estelar, Tiësto tenía una tienda de discos. ¿En qué ciudad?"
+      },
+      "answers": {
+        "en": [
+          "Breda",
+          "Amsterdam",
+          "Rotterdam",
+          "The Hague"
+        ],
+        "es": [
+          "Breda",
+          "Ámsterdam",
+          "Róterdam",
+          "La Haya"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Tiësto co-owned a record store in Breda in the early days of his career, which helped him stay close to new music releases and build his DJ collection.",
+        "es": "Tiësto co-propietario de una tienda de discos en Breda en los primeros días de su carrera, lo que le ayudó a mantenerse cerca de los nuevos lanzamientos musicales y construir su colección de DJ."
+      }
+    },
+    {
+      "id": "bio_tf_017",
+      "category": "biography",
+      "difficulty": "true_fan",
+      "question": {
+        "en": "Which film franchise's theme did Tiësto famously remix in 2006?",
+        "es": "¿El tema de qué franquicia cinematográfica remezclaron famosamente Tiësto en 2006?"
+      },
+      "answers": {
+        "en": [
+          "Pirates of the Caribbean",
+          "Star Wars",
+          "James Bond",
+          "The Lord of the Rings"
+        ],
+        "es": [
+          "Piratas del Caribe",
+          "Star Wars",
+          "James Bond",
+          "El Señor de los Anillos"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Tiësto's remix of 'He's a Pirate' from Pirates of the Caribbean became a massive anthem in clubs worldwide and introduced him to a new audience.",
+        "es": "El remix de Tiësto de 'He's a Pirate' de Piratas del Caribe se convirtió en un himno masivo en clubes de todo el mundo y lo presentó a una nueva audiencia."
+      }
+    },
+    {
+      "id": "bio_s_001",
+      "category": "biography",
+      "difficulty": "scholar",
+      "question": {
+        "en": "The Magik compilation series consisted of how many volumes in total?",
+        "es": "¿Cuántos volúmenes en total tuvo la serie de compilaciones Magik?"
+      },
+      "answers": {
+        "en": [
+          "7",
+          "5",
+          "10",
+          "3"
+        ],
+        "es": [
+          "7",
+          "5",
+          "10",
+          "3"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Magik ran from Magik 1 (1997) through Magik 7: Live in Los Angeles (2001), each volume showcasing Tiësto's evolving trance style.",
+        "es": "Magik abarcó desde Magik 1 (1997) hasta Magik 7: Live in Los Angeles (2001), con cada volumen mostrando el estilo de trance en evolución de Tiësto."
+      }
+    },
+    {
+      "id": "bio_s_002",
+      "category": "biography",
+      "difficulty": "scholar",
+      "question": {
+        "en": "Tiësto performed at the Athens Olympics for approximately how long?",
+        "es": "¿Durante aproximadamente cuánto tiempo actuó Tiësto en los Juegos Olímpicos de Atenas?"
+      },
+      "answers": {
+        "en": [
+          "4 hours",
+          "1 hour",
+          "2 hours",
+          "8 hours"
+        ],
+        "es": [
+          "4 horas",
+          "1 hora",
+          "2 horas",
+          "8 horas"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Tiësto played for approximately four hours at the Athens 2004 opening ceremony, one of the longest and most watched DJ sets in history.",
+        "es": "Tiësto tocó durante aproximadamente cuatro horas en la ceremonia de apertura de Atenas 2004, uno de los sets de DJ más largos y vistos de la historia."
+      }
+    },
+    {
+      "id": "bio_s_003",
+      "category": "biography",
+      "difficulty": "scholar",
+      "question": {
+        "en": "Which earlier DJ label did Tiësto release his first records on before Black Hole Recordings?",
+        "es": "¿En qué sello discográfico anterior a Black Hole Recordings publicó Tiësto sus primeros discos?"
+      },
+      "answers": {
+        "en": [
+          "Magik Music",
+          "Cyber Records",
+          "Netherlands Dance",
+          "Trance Nation"
+        ],
+        "es": [
+          "Magik Music",
+          "Cyber Records",
+          "Netherlands Dance",
+          "Trance Nation"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Tiësto's earliest releases appeared on Magik Music, the label closely tied to the Magik compilation series and his early trance productions.",
+        "es": "Los primeros lanzamientos de Tiësto aparecieron en Magik Music, el sello estrechamente vinculado a la serie de compilaciones Magik y sus primeras producciones de trance."
+      }
+    },
+    {
+      "id": "bio_s_004",
+      "category": "biography",
+      "difficulty": "scholar",
+      "question": {
+        "en": "Before 'Tiësto', what DJ name did he occasionally use in his very early career?",
+        "es": "Antes de 'Tiësto', ¿qué nombre de DJ utilizó ocasionalmente en su carrera más temprana?"
+      },
+      "answers": {
+        "en": [
+          "DJ Tiësto was always his stage name",
+          "DJ Vertigo",
+          "Dub Fire",
+          "Circuit"
+        ],
+        "es": [
+          "DJ Tiësto fue siempre su nombre artístico",
+          "DJ Vertigo",
+          "Dub Fire",
+          "Circuit"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "While 'Tiësto' was his primary stage name, he produced and released tracks under 'Allure' as a secondary project alias throughout the 2000s.",
+        "es": "Si bien 'Tiësto' fue su nombre artístico principal, produjo y lanzó temas bajo 'Allure' como alias de proyecto secundario durante los años 2000."
+      }
+    },
+    {
+      "id": "bio_s_005",
+      "category": "biography",
+      "difficulty": "scholar",
+      "question": {
+        "en": "Which legendary Dutch club was a key early venue for Tiësto's career growth?",
+        "es": "¿Qué legendario club holandés fue un lugar clave para el crecimiento de la carrera de Tiësto en sus inicios?"
+      },
+      "answers": {
+        "en": [
+          "IT Amsterdam",
+          "Melkweg",
+          "Paradiso",
+          "Club Air"
+        ],
+        "es": [
+          "IT Amsterdam",
+          "Melkweg",
+          "Paradiso",
+          "Club Air"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "IT Amsterdam was one of the Netherlands' most influential nightclubs in the 1990s and was an important stepping stone for Dutch DJs including Tiësto.",
+        "es": "IT Amsterdam fue uno de los clubes nocturnos más influyentes de los Países Bajos en los años 90 y fue un importante escalón para los DJs holandeses, incluido Tiësto."
+      }
+    },
+    {
+      "id": "bio_s_006",
+      "category": "biography",
+      "difficulty": "scholar",
+      "question": {
+        "en": "The In Search of Sunrise series began in which year?",
+        "es": "¿En qué año comenzó la serie In Search of Sunrise?"
+      },
+      "answers": {
+        "en": [
+          "1999",
+          "2003",
+          "2001",
+          "2005"
+        ],
+        "es": [
+          "1999",
+          "2003",
+          "2001",
+          "2005"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "In Search of Sunrise 1 was released in 1999 on Magik/Black Hole Recordings, setting the template for a chillout compilation series that would span well over a decade.",
+        "es": "In Search of Sunrise 1 fue lanzado en 1999 en Magik/Black Hole Recordings, estableciendo la plantilla para una serie de compilaciones chillout que abarcaría más de una década."
+      }
+    },
+    {
+      "id": "bio_s_007",
+      "category": "biography",
+      "difficulty": "scholar",
+      "question": {
+        "en": "Tiësto's Hakkasan Las Vegas residency began in approximately which year?",
+        "es": "¿En qué año aproximadamente comenzó la residencia de Tiësto en Hakkasan Las Vegas?"
+      },
+      "answers": {
+        "en": [
+          "2013",
+          "2010",
+          "2015",
+          "2008"
+        ],
+        "es": [
+          "2013",
+          "2010",
+          "2015",
+          "2008"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Tiësto began his Hakkasan residency around 2013, coinciding with the peak of Las Vegas's transformation into an EDM destination.",
+        "es": "Tiësto comenzó su residencia en Hakkasan alrededor de 2013, coincidiendo con el apogeo de la transformación de Las Vegas en un destino de EDM."
+      }
+    },
+    {
+      "id": "bio_s_008",
+      "category": "biography",
+      "difficulty": "scholar",
+      "question": {
+        "en": "Tiësto co-curated many In Search of Sunrise volumes with which other artist?",
+        "es": "¿Con qué otro artista co-curó Tiësto muchos volúmenes de In Search of Sunrise?"
+      },
+      "answers": {
+        "en": [
+          "Arny Bink",
+          "Ferry Corsten",
+          "Paul van Dyk",
+          "Above & Beyond"
+        ],
+        "es": [
+          "Arny Bink",
+          "Ferry Corsten",
+          "Paul van Dyk",
+          "Above & Beyond"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Arny Bink, a Dutch artist and collaborator, worked closely with Tiësto on several volumes of the In Search of Sunrise series.",
+        "es": "Arny Bink, un artista y colaborador holandés, trabajó estrechamente con Tiësto en varios volúmenes de la serie In Search of Sunrise."
+      }
+    },
+    {
+      "id": "bio_s_009",
+      "category": "biography",
+      "difficulty": "scholar",
+      "question": {
+        "en": "In which year did Tiësto officially drop the 'DJ' prefix from his stage name?",
+        "es": "¿En qué año eliminó oficialmente Tiësto el prefijo 'DJ' de su nombre artístico?"
+      },
+      "answers": {
+        "en": [
+          "2012",
+          "2008",
+          "2005",
+          "2015"
+        ],
+        "es": [
+          "2012",
+          "2008",
+          "2005",
+          "2015"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Around 2012, Tiësto rebranded by dropping 'DJ' from his name, signalling his evolution from club DJ to a broader music artist and producer.",
+        "es": "Alrededor de 2012, Tiësto se reposicionó eliminando 'DJ' de su nombre, señalando su evolución de DJ de club a artista y productor musical más amplio."
+      }
+    },
+    {
+      "id": "bio_s_010",
+      "category": "biography",
+      "difficulty": "scholar",
+      "question": {
+        "en": "Which annual music conference in Miami has Tiësto performed at nearly every year?",
+        "es": "¿En qué conferencia musical anual de Miami ha actuado Tiësto casi todos los años?"
+      },
+      "answers": {
+        "en": [
+          "Ultra Music Festival / WMC",
+          "SXSW",
+          "Coachella",
+          "EDC Las Vegas"
+        ],
+        "es": [
+          "Ultra Music Festival / WMC",
+          "SXSW",
+          "Coachella",
+          "EDC Las Vegas"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "The Winter Music Conference (WMC) and Ultra Music Festival in Miami are annual landmarks in Tiësto's calendar, where he has performed iconic sets across multiple decades.",
+        "es": "La Winter Music Conference (WMC) y el Ultra Music Festival en Miami son hitos anuales en el calendario de Tiësto, donde ha ofrecido actuaciones icónicas durante múltiples décadas."
+      }
+    },
+    {
+      "id": "bio_s_011",
+      "category": "biography",
+      "difficulty": "scholar",
+      "question": {
+        "en": "Tiësto's collaboration with BT produced which iconic track?",
+        "es": "¿Qué icónico tema produjo la colaboración de Tiësto con BT?"
+      },
+      "answers": {
+        "en": [
+          "Love Comes Again",
+          "Suburban Train",
+          "Adagio for Strings",
+          "Traffic"
+        ],
+        "es": [
+          "Love Comes Again",
+          "Suburban Train",
+          "Adagio for Strings",
+          "Traffic"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "'Love Comes Again' (2004), featuring BT's distinctive vocal production and Tiësto's trance energy, became one of the defining tracks of their era.",
+        "es": "'Love Comes Again' (2004), con la distintiva producción vocal de BT y la energía trance de Tiësto, se convirtió en uno de los temas definitorios de su época."
+      }
+    },
+    {
+      "id": "bio_s_012",
+      "category": "biography",
+      "difficulty": "scholar",
+      "question": {
+        "en": "How many episodes of the Club Life podcast had Tiësto released by 2020 approximately?",
+        "es": "¿Aproximadamente cuántos episodios del podcast Club Life había lanzado Tiësto hasta 2020?"
+      },
+      "answers": {
+        "en": [
+          "700+",
+          "200+",
+          "100+",
+          "500+"
+        ],
+        "es": [
+          "700+",
+          "200+",
+          "100+",
+          "500+"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "By 2020, Tiësto had released well over 700 episodes of Club Life, making it one of the longest-running DJ mix podcasts in history.",
+        "es": "Para 2020, Tiësto había lanzado más de 700 episodios de Club Life, convirtiéndolo en uno de los podcasts de mezclas de DJ de mayor duración en la historia."
+      }
+    },
+    {
+      "id": "bio_s_013",
+      "category": "biography",
+      "difficulty": "scholar",
+      "question": {
+        "en": "Tiësto's 'Nyana' label was focused on which style of music?",
+        "es": "El sello 'Nyana' de Tiësto se centraba en qué estilo musical?"
+      },
+      "answers": {
+        "en": [
+          "Deep and progressive trance",
+          "Big room EDM",
+          "Hip-hop beats",
+          "Minimal techno"
+        ],
+        "es": [
+          "Trance profundo y progresivo",
+          "Big room EDM",
+          "Ritmos de hip-hop",
+          "Techno minimal"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Nyana Records was Tiësto's label focused on deeper and more progressive forms of trance, running alongside his main projects in the early 2000s.",
+        "es": "Nyana Records fue el sello de Tiësto enfocado en formas más profundas y progresivas del trance, funcionando junto a sus proyectos principales a principios de los 2000."
+      }
+    },
+    {
+      "id": "bio_s_014",
+      "category": "biography",
+      "difficulty": "scholar",
+      "question": {
+        "en": "Tiësto appeared on the soundtrack of which major video game franchise?",
+        "es": "¿En la banda sonora de qué importante franquicia de videojuegos apareció Tiësto?"
+      },
+      "answers": {
+        "en": [
+          "FIFA (EA Sports)",
+          "Grand Theft Auto",
+          "Need for Speed",
+          "Tony Hawk's Pro Skater"
+        ],
+        "es": [
+          "FIFA (EA Sports)",
+          "Grand Theft Auto",
+          "Need for Speed",
+          "Tony Hawk's Pro Skater"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Several of Tiësto's tracks appeared on EA Sports FIFA soundtracks, introducing his music to a massive gaming audience worldwide.",
+        "es": "Varios temas de Tiësto aparecieron en las bandas sonoras de FIFA de EA Sports, presentando su música a una enorme audiencia de jugadores en todo el mundo."
+      }
+    },
+    {
+      "id": "bio_s_015",
+      "category": "biography",
+      "difficulty": "scholar",
+      "question": {
+        "en": "In which year did Tiësto receive a Grammy nomination for Best Dance Recording?",
+        "es": "¿En qué año recibió Tiësto una nominación al Grammy como Mejor Grabación de Baile?"
+      },
+      "answers": {
+        "en": [
+          "2015",
+          "2013",
+          "2018",
+          "2021"
+        ],
+        "es": [
+          "2015",
+          "2013",
+          "2018",
+          "2021"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Tiësto received a Grammy nomination for Best Dance Recording in 2015, recognising his sustained impact on electronic music over more than a decade.",
+        "es": "Tiësto recibió una nominación al Grammy como Mejor Grabación de Baile en 2015, reconociendo su impacto sostenido en la música electrónica durante más de una década."
+      }
+    },
+    {
+      "id": "bio_s_016",
+      "category": "biography",
+      "difficulty": "scholar",
+      "question": {
+        "en": "Tiësto performed at the Super Bowl halftime show in which year?",
+        "es": "¿En qué año actuó Tiësto en el espectáculo de medio tiempo del Super Bowl?"
+      },
+      "answers": {
+        "en": [
+          "He has not performed at Super Bowl halftime",
+          "2020",
+          "2018",
+          "2022"
+        ],
+        "es": [
+          "No ha actuado en el medio tiempo del Super Bowl",
+          "2020",
+          "2018",
+          "2022"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Tiësto has not headlined a Super Bowl halftime show. However, he has performed at pre-game and official Super Bowl events multiple times.",
+        "es": "Tiësto no ha encabezado un espectáculo de medio tiempo del Super Bowl. Sin embargo, ha actuado en eventos previos al juego y oficiales del Super Bowl en múltiples ocasiones."
+      }
+    },
+    {
+      "id": "disc_c_001",
+      "category": "discography",
+      "difficulty": "casual",
+      "question": {
+        "en": "What was the title of Tiësto's debut artist album?",
+        "es": "¿Cuál fue el título del álbum debut de Tiësto como artista?"
+      },
+      "answers": {
+        "en": [
+          "In My Memory",
+          "Just Be",
+          "Elements of Life",
+          "Kaleidoscope"
+        ],
+        "es": [
+          "In My Memory",
+          "Just Be",
+          "Elements of Life",
+          "Kaleidoscope"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "'In My Memory' was released in 2001 on Black Hole Recordings and marked Tiësto's first full artist album, blending trance with melodic vocals.",
+        "es": "'In My Memory' fue lanzado en 2001 por Black Hole Recordings y marcó el primer álbum completo de artista de Tiësto, mezclando trance con voces melódicas."
+      }
+    },
+    {
+      "id": "disc_c_002",
+      "category": "discography",
+      "difficulty": "casual",
+      "question": {
+        "en": "'The Business' was released in which year?",
+        "es": "¿En qué año fue lanzado 'The Business'?"
+      },
+      "answers": {
+        "en": [
+          "2020",
+          "2018",
+          "2022",
+          "2016"
+        ],
+        "es": [
+          "2020",
+          "2018",
+          "2022",
+          "2016"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "'The Business' was released in September 2020 and became one of Tiësto's biggest mainstream hits, reaching #1 in multiple countries.",
+        "es": "'The Business' fue lanzado en septiembre de 2020 y se convirtió en uno de los grandes éxitos mainstream de Tiësto, llegando al número 1 en múltiples países."
+      }
+    },
+    {
+      "id": "disc_c_003",
+      "category": "discography",
+      "difficulty": "casual",
+      "question": {
+        "en": "Which classical composition did Tiësto famously remix into a trance anthem?",
+        "es": "¿Qué composición clásica remezclaron Tiësto en un himno de trance?"
+      },
+      "answers": {
+        "en": [
+          "Adagio for Strings",
+          "Für Elise",
+          "Clair de Lune",
+          "Canon in D"
+        ],
+        "es": [
+          "Adagio for Strings",
+          "Für Elise",
+          "Clair de Lune",
+          "Canon en Re"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Samuel Barber's 'Adagio for Strings' was transformed by Tiësto into a euphoric trance anthem in 2005, one of the most recognizable DJ remixes ever made.",
+        "es": "El 'Adagio para cuerdas' de Samuel Barber fue transformado por Tiësto en un himno de trance eufórico en 2005, uno de los remixes de DJ más reconocibles jamás realizados."
+      }
+    },
+    {
+      "id": "disc_c_004",
+      "category": "discography",
+      "difficulty": "casual",
+      "question": {
+        "en": "'Don't Be Shy' is a collaboration between Tiësto and which Latin artist?",
+        "es": "'Don't Be Shy' es una colaboración entre Tiësto y qué artista latina?"
+      },
+      "answers": {
+        "en": [
+          "Karol G",
+          "Bad Bunny",
+          "J Balvin",
+          "Maluma"
+        ],
+        "es": [
+          "Karol G",
+          "Bad Bunny",
+          "J Balvin",
+          "Maluma"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "'Don't Be Shy' featuring Karol G was released in 2021 and became a major crossover hit blending reggaeton-pop energy with Tiësto's electronic production.",
+        "es": "'Don't Be Shy' con Karol G fue lanzado en 2021 y se convirtió en un gran éxito crossover que mezcla la energía del reggaetón-pop con la producción electrónica de Tiësto."
+      }
+    },
+    {
+      "id": "disc_c_005",
+      "category": "discography",
+      "difficulty": "casual",
+      "question": {
+        "en": "Which of these is a Tiësto track from 2013?",
+        "es": "¿Cuál de estos es un tema de Tiësto de 2013?"
+      },
+      "answers": {
+        "en": [
+          "Red Lights",
+          "Green Lights",
+          "Blue Lights",
+          "Neon Lights"
+        ],
+        "es": [
+          "Red Lights",
+          "Green Lights",
+          "Blue Lights",
+          "Neon Lights"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "'Red Lights' (2013) was a major commercial hit that signalled Tiësto's full transition into mainstream EDM and pop crossover territory.",
+        "es": "'Red Lights' (2013) fue un gran éxito comercial que señaló la plena transición de Tiësto hacia el EDM mainstream y el territorio crossover pop."
+      }
+    },
+    {
+      "id": "disc_c_006",
+      "category": "discography",
+      "difficulty": "casual",
+      "question": {
+        "en": "Which Tiësto album from 2009 marked his first major pop crossover?",
+        "es": "¿Qué álbum de Tiësto de 2009 marcó su primer gran crossover pop?"
+      },
+      "answers": {
+        "en": [
+          "Kaleidoscope",
+          "A Town Called Paradise",
+          "Just Be",
+          "Elements of Life"
+        ],
+        "es": [
+          "Kaleidoscope",
+          "A Town Called Paradise",
+          "Just Be",
+          "Elements of Life"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "'Kaleidoscope' (2009) featured collaborations with pop artists including Nelly Furtado and Bloc Party, marking Tiësto's deliberate push into mainstream pop territory.",
+        "es": "'Kaleidoscope' (2009) contó con colaboraciones con artistas pop como Nelly Furtado y Bloc Party, marcando el impulso deliberado de Tiësto hacia el territorio pop mainstream."
+      }
+    },
+    {
+      "id": "disc_c_007",
+      "category": "discography",
+      "difficulty": "casual",
+      "question": {
+        "en": "'Traffic' is one of Tiësto's most iconic early tracks. In which year was it released?",
+        "es": "'Traffic' es uno de los primeros temas más icónicos de Tiësto. ¿En qué año fue lanzado?"
+      },
+      "answers": {
+        "en": [
+          "2003",
+          "2001",
+          "2005",
+          "1999"
+        ],
+        "es": [
+          "2003",
+          "2001",
+          "2005",
+          "1999"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "'Traffic' (2003) became one of Tiësto's signature tracks and an enduring trance classic, beloved by fans worldwide for its uplifting energy.",
+        "es": "'Traffic' (2003) se convirtió en uno de los temas característicos de Tiësto y un clásico perdurable del trance, amado por fans de todo el mundo por su energía estimulante."
+      }
+    },
+    {
+      "id": "disc_c_008",
+      "category": "discography",
+      "difficulty": "casual",
+      "question": {
+        "en": "What was the name of Tiësto's 2014 studio album?",
+        "es": "¿Cómo se llamó el álbum de estudio de Tiësto de 2014?"
+      },
+      "answers": {
+        "en": [
+          "A Town Called Paradise",
+          "Club Life",
+          "Kaleidoscope",
+          "Maximal Crazy"
+        ],
+        "es": [
+          "A Town Called Paradise",
+          "Club Life",
+          "Kaleidoscope",
+          "Maximal Crazy"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "'A Town Called Paradise' (2014) was Tiësto's fifth studio album, featuring a more accessible EDM and pop sound including the hit 'Red Lights'.",
+        "es": "'A Town Called Paradise' (2014) fue el quinto álbum de estudio de Tiësto, con un sonido EDM y pop más accesible, incluyendo el exitoso 'Red Lights'."
+      }
+    },
+    {
+      "id": "disc_c_009",
+      "category": "discography",
+      "difficulty": "casual",
+      "question": {
+        "en": "'Boom' (2017) was a collaboration between Tiësto, Sevenn, and which rapper?",
+        "es": "'Boom' (2017) fue una colaboración entre Tiësto, Sevenn y qué rapero?"
+      },
+      "answers": {
+        "en": [
+          "Gucci Mane",
+          "Lil Wayne",
+          "Future",
+          "Cardi B"
+        ],
+        "es": [
+          "Gucci Mane",
+          "Lil Wayne",
+          "Future",
+          "Cardi B"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "'Boom' featuring Gucci Mane and produced with Sevenn was a genre-crossing track combining trap and EDM elements that charted widely.",
+        "es": "'Boom' con Gucci Mane y producido con Sevenn fue un tema que cruzó géneros combinando elementos de trap y EDM que tuvo amplia repercusión en las listas."
+      }
+    },
+    {
+      "id": "disc_c_010",
+      "category": "discography",
+      "difficulty": "casual",
+      "question": {
+        "en": "'Just Be' (2004) features vocals from which singer?",
+        "es": "'Just Be' (2004) incluye la voz de qué cantante?"
+      },
+      "answers": {
+        "en": [
+          "Kirsty Hawkshaw",
+          "Sarah McLachlan",
+          "Dido",
+          "Sia"
+        ],
+        "es": [
+          "Kirsty Hawkshaw",
+          "Sarah McLachlan",
+          "Dido",
+          "Sia"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "'Just Be' featuring Kirsty Hawkshaw is the title track from Tiësto's second studio album, combining lush trance production with heartfelt vocals.",
+        "es": "'Just Be' con Kirsty Hawkshaw es el tema principal del segundo álbum de estudio de Tiësto, combinando una exuberante producción de trance con voces emotivas."
+      }
+    },
+    {
+      "id": "disc_c_011",
+      "category": "discography",
+      "difficulty": "casual",
+      "question": {
+        "en": "Tiësto's remix of 'He's a Pirate' is from which film series?",
+        "es": "El remix de Tiësto de 'He's a Pirate' pertenece a qué serie de películas?"
+      },
+      "answers": {
+        "en": [
+          "Pirates of the Caribbean",
+          "Master and Commander",
+          "Treasure Island",
+          "The Black Pearl"
+        ],
+        "es": [
+          "Piratas del Caribe",
+          "Capitán de mar y guerra",
+          "La isla del tesoro",
+          "La Perla Negra"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Tiësto's trance remix of Klaus Badelt's 'He's a Pirate' theme from Pirates of the Caribbean became a club smash in 2006, one of his most recognisable productions.",
+        "es": "El remix de trance de Tiësto del tema 'He's a Pirate' de Klaus Badelt de Piratas del Caribe se convirtió en un éxito de clubs en 2006, una de sus producciones más reconocibles."
+      }
+    },
+    {
+      "id": "disc_c_012",
+      "category": "discography",
+      "difficulty": "casual",
+      "question": {
+        "en": "'Suburban Train' is one of Tiësto's classic tracks. Which decade was it released in?",
+        "es": "'Suburban Train' es uno de los temas clásicos de Tiësto. ¿En qué década fue lanzado?"
+      },
+      "answers": {
+        "en": [
+          "2000s",
+          "1990s",
+          "2010s",
+          "1980s"
+        ],
+        "es": [
+          "Años 2000",
+          "Años 1990",
+          "Años 2010",
+          "Años 1980"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "'Suburban Train' was released in 2000 and became one of the defining trance tracks of the early millennium, a Tiësto classic that still appears in sets today.",
+        "es": "'Suburban Train' fue lanzado en 2000 y se convirtió en uno de los temas de trance definitorios del nuevo milenio, un clásico de Tiësto que aún aparece en los sets hoy en día."
+      }
+    },
+    {
+      "id": "disc_c_013",
+      "category": "discography",
+      "difficulty": "casual",
+      "question": {
+        "en": "Which of these features on Tiësto's 'Kaleidoscope' album?",
+        "es": "¿Cuál de estos aparece en el álbum 'Kaleidoscope' de Tiësto?"
+      },
+      "answers": {
+        "en": [
+          "Nelly Furtado",
+          "Beyoncé",
+          "Rihanna",
+          "Lady Gaga"
+        ],
+        "es": [
+          "Nelly Furtado",
+          "Beyoncé",
+          "Rihanna",
+          "Lady Gaga"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Nelly Furtado collaborated with Tiësto on the track 'Who Wants to Be Alone' from Kaleidoscope, part of the album's ambitious pop crossover push.",
+        "es": "Nelly Furtado colaboró con Tiësto en el tema 'Who Wants to Be Alone' de Kaleidoscope, parte del ambicioso impulso crossover pop del álbum."
+      }
+    },
+    {
+      "id": "disc_c_014",
+      "category": "discography",
+      "difficulty": "casual",
+      "question": {
+        "en": "'Grapevine' is a Tiësto track released in which year?",
+        "es": "'Grapevine' es un tema de Tiësto lanzado en qué año?"
+      },
+      "answers": {
+        "en": [
+          "2022",
+          "2019",
+          "2016",
+          "2024"
+        ],
+        "es": [
+          "2022",
+          "2019",
+          "2016",
+          "2024"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "'Grapevine' (2022) is one of Tiësto's more recent hits, continuing his streak of chart-friendly electronic pop productions in his later career phase.",
+        "es": "'Grapevine' (2022) es uno de los éxitos más recientes de Tiësto, continuando su racha de producciones de pop electrónico orientadas a las listas en su fase de carrera más reciente."
+      }
+    },
+    {
+      "id": "disc_c_015",
+      "category": "discography",
+      "difficulty": "casual",
+      "question": {
+        "en": "'The Business' reached #1 in how many countries approximately?",
+        "es": "'The Business' llegó al número 1 en aproximadamente cuántos países?"
+      },
+      "answers": {
+        "en": [
+          "More than 10",
+          "Just 1",
+          "2 or 3",
+          "5 exactly"
+        ],
+        "es": [
+          "Más de 10",
+          "Solo 1",
+          "2 o 3",
+          "Exactamente 5"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "'The Business' topped charts in multiple countries worldwide and became one of the most streamed electronic music tracks of 2020–2021.",
+        "es": "'The Business' encabezó las listas en múltiples países de todo el mundo y se convirtió en uno de los temas de música electrónica más escuchados en streaming en 2020-2021."
+      }
+    },
+    {
+      "id": "disc_c_016",
+      "category": "discography",
+      "difficulty": "casual",
+      "question": {
+        "en": "'Elements of Life' was the title of Tiësto's album released in which year?",
+        "es": "'Elements of Life' fue el título del álbum de Tiësto lanzado en qué año?"
+      },
+      "answers": {
+        "en": [
+          "2007",
+          "2005",
+          "2009",
+          "2011"
+        ],
+        "es": [
+          "2007",
+          "2005",
+          "2009",
+          "2011"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "'Elements of Life' (2007) was Tiësto's third studio album and won a Grammy for Best Electronic/Dance Album — his first Grammy win.",
+        "es": "'Elements of Life' (2007) fue el tercer álbum de estudio de Tiësto y ganó un Grammy al Mejor Álbum Electrónico/de Baile, su primera victoria en los Grammy."
+      }
+    },
+    {
+      "id": "disc_c_017",
+      "category": "discography",
+      "difficulty": "casual",
+      "question": {
+        "en": "'Lethal Industry' is a classic Tiësto track. What genre is it?",
+        "es": "'Lethal Industry' es un tema clásico de Tiësto. ¿De qué género es?"
+      },
+      "answers": {
+        "en": [
+          "Trance",
+          "House",
+          "Drum and bass",
+          "Ambient"
+        ],
+        "es": [
+          "Trance",
+          "House",
+          "Drum and bass",
+          "Ambient"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "'Lethal Industry' is a driving, hard-edged trance track from 2003 that became a staple of Tiësto's DJ sets and represents his peak trance era sound.",
+        "es": "'Lethal Industry' es un contundente tema de trance de 2003 que se convirtió en un elemento básico de los sets de DJ de Tiësto y representa el sonido de su época dorada del trance."
+      }
+    },
+    {
+      "id": "disc_tf_001",
+      "category": "discography",
+      "difficulty": "true_fan",
+      "question": {
+        "en": "'Elements of Life' won a Grammy Award in which category?",
+        "es": "'Elements of Life' ganó un premio Grammy en qué categoría?"
+      },
+      "answers": {
+        "en": [
+          "Best Electronic/Dance Album",
+          "Best Dance Recording",
+          "Best New Artist",
+          "Best Remixed Recording"
+        ],
+        "es": [
+          "Mejor Álbum Electrónico/de Baile",
+          "Mejor Grabación de Baile",
+          "Mejor Artista Nuevo",
+          "Mejor Grabación Remezclada"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "'Elements of Life' won the Grammy for Best Electronic/Dance Album at the 50th Grammy Awards (2008), the most prestigious award of Tiësto's career to date.",
+        "es": "'Elements of Life' ganó el Grammy al Mejor Álbum Electrónico/de Baile en la 50ª ceremonia de los Grammy (2008), el premio más prestigioso de la carrera de Tiësto hasta la fecha."
+      }
+    },
+    {
+      "id": "disc_tf_002",
+      "category": "discography",
+      "difficulty": "true_fan",
+      "question": {
+        "en": "Which vocalist featured on 'Just Be' (2004)?",
+        "es": "¿Qué vocalista aparece en 'Just Be' (2004)?"
+      },
+      "answers": {
+        "en": [
+          "Kirsty Hawkshaw",
+          "BT",
+          "Nelly Furtado",
+          "Kay"
+        ],
+        "es": [
+          "Kirsty Hawkshaw",
+          "BT",
+          "Nelly Furtado",
+          "Kay"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Kirsty Hawkshaw, a British vocalist known for her ethereal style, provided the vocals on 'Just Be', perfectly complementing Tiësto's lush trance production.",
+        "es": "Kirsty Hawkshaw, vocalista británica conocida por su estilo etéreo, prestó su voz en 'Just Be', complementando perfectamente la exuberante producción de trance de Tiësto."
+      }
+    },
+    {
+      "id": "disc_tf_003",
+      "category": "discography",
+      "difficulty": "true_fan",
+      "question": {
+        "en": "What is the original composer of 'Adagio for Strings' that Tiësto remixed?",
+        "es": "¿Quién es el compositor original de 'Adagio for Strings' que Tiësto remezclaron?"
+      },
+      "answers": {
+        "en": [
+          "Samuel Barber",
+          "Johann Pachelbel",
+          "Claude Debussy",
+          "Ludwig van Beethoven"
+        ],
+        "es": [
+          "Samuel Barber",
+          "Johann Pachelbel",
+          "Claude Debussy",
+          "Ludwig van Beethoven"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Samuel Barber composed 'Adagio for Strings' in 1936. Tiësto's 2005 trance remix transformed it into one of the most emotional and iconic tracks in electronic music history.",
+        "es": "Samuel Barber compuso 'Adagio para cuerdas' en 1936. El remix de trance de Tiësto en 2005 lo transformó en uno de los temas más emotivos e icónicos en la historia de la música electrónica."
+      }
+    },
+    {
+      "id": "disc_tf_004",
+      "category": "discography",
+      "difficulty": "true_fan",
+      "question": {
+        "en": "'Love Comes Again' (2004) features which artist?",
+        "es": "¿Qué artista aparece en 'Love Comes Again' (2004)?"
+      },
+      "answers": {
+        "en": [
+          "BT",
+          "Kirsty Hawkshaw",
+          "Nelly Furtado",
+          "Jan Johnston"
+        ],
+        "es": [
+          "BT",
+          "Kirsty Hawkshaw",
+          "Nelly Furtado",
+          "Jan Johnston"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "BT (Brian Transeau), the influential American electronic musician, collaborated with Tiësto on 'Love Comes Again', producing one of the defining trance tracks of 2004.",
+        "es": "BT (Brian Transeau), el influyente músico electrónico estadounidense, colaboró con Tiësto en 'Love Comes Again', produciendo uno de los temas de trance más definitorios de 2004."
+      }
+    },
+    {
+      "id": "disc_tf_005",
+      "category": "discography",
+      "difficulty": "true_fan",
+      "question": {
+        "en": "The Magik series was released on which record label?",
+        "es": "La serie Magik fue lanzada en qué sello discográfico?"
+      },
+      "answers": {
+        "en": [
+          "Black Hole Recordings",
+          "Armada Music",
+          "FFRR",
+          "Musical Freedom"
+        ],
+        "es": [
+          "Black Hole Recordings",
+          "Armada Music",
+          "FFRR",
+          "Musical Freedom"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "The Magik compilation series was released on Black Hole Recordings, the pioneering Dutch trance label that also released work from Ferry Corsten and others.",
+        "es": "La serie de compilaciones Magik fue lanzada en Black Hole Recordings, el pionero sello holandés de trance que también publicó trabajo de Ferry Corsten y otros."
+      }
+    },
+    {
+      "id": "disc_tf_006",
+      "category": "discography",
+      "difficulty": "true_fan",
+      "question": {
+        "en": "Which Bloc Party member collaborated with Tiësto on 'Kaleidoscope'?",
+        "es": "¿Qué miembro de Bloc Party colaboró con Tiësto en 'Kaleidoscope'?"
+      },
+      "answers": {
+        "en": [
+          "Kele Okereke",
+          "Russell Lissack",
+          "Gordon Moakes",
+          "Matt Tong"
+        ],
+        "es": [
+          "Kele Okereke",
+          "Russell Lissack",
+          "Gordon Moakes",
+          "Matt Tong"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Kele Okereke, Bloc Party's frontman, voiced the track 'Here on Earth' on Tiësto's 'Kaleidoscope' album, blending indie rock vocals with electronic production.",
+        "es": "Kele Okereke, el líder de Bloc Party, puso voz al tema 'Here on Earth' en el álbum 'Kaleidoscope' de Tiësto, mezclando voces de indie rock con producción electrónica."
+      }
+    },
+    {
+      "id": "disc_tf_007",
+      "category": "discography",
+      "difficulty": "true_fan",
+      "question": {
+        "en": "'Maximal Crazy' from 2014 was made in collaboration with which duo?",
+        "es": "'Maximal Crazy' de 2014 fue creado en colaboración con qué dúo?"
+      },
+      "answers": {
+        "en": [
+          "KSHMR",
+          "Hardwell",
+          "Martin Garrix",
+          "Dyro"
+        ],
+        "es": [
+          "KSHMR",
+          "Hardwell",
+          "Martin Garrix",
+          "Dyro"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "'Maximal Crazy' was a collaboration between Tiësto and KSHMR, combining their shared big room EDM sensibilities into a festival-ready anthem.",
+        "es": "'Maximal Crazy' fue una colaboración entre Tiësto y KSHMR, combinando sus sensibilidades compartidas de big room EDM en un himno listo para festivales."
+      }
+    },
+    {
+      "id": "disc_tf_008",
+      "category": "discography",
+      "difficulty": "true_fan",
+      "question": {
+        "en": "Tiësto's 'Kaleidoscope' album also featured which alternative artist?",
+        "es": "El álbum 'Kaleidoscope' de Tiësto también contó con qué artista alternativo?"
+      },
+      "answers": {
+        "en": [
+          "Emily Haines of Metric",
+          "Beck",
+          "Feist",
+          "St. Vincent"
+        ],
+        "es": [
+          "Emily Haines de Metric",
+          "Beck",
+          "Feist",
+          "St. Vincent"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Emily Haines, vocalist of Canadian indie rock band Metric, collaborated with Tiësto on 'knock you out', bridging indie and electronic worlds on Kaleidoscope.",
+        "es": "Emily Haines, vocalista de la banda canadiense de indie rock Metric, colaboró con Tiësto en 'knock you out', uniendo los mundos del indie y la electrónica en Kaleidoscope."
+      }
+    },
+    {
+      "id": "disc_tf_009",
+      "category": "discography",
+      "difficulty": "true_fan",
+      "question": {
+        "en": "'Suburban Train' was featured in which Magik volume?",
+        "es": "'Suburban Train' fue incluido en qué volumen de Magik?"
+      },
+      "answers": {
+        "en": [
+          "Magik 6: Live in Amsterdam",
+          "Magik 1",
+          "Magik 3",
+          "Magik 7"
+        ],
+        "es": [
+          "Magik 6: Live in Amsterdam",
+          "Magik 1",
+          "Magik 3",
+          "Magik 7"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "'Suburban Train' appeared on Magik 6: Live in Amsterdam (2001) as one of Tiësto's own productions that helped define the sound of that era.",
+        "es": "'Suburban Train' apareció en Magik 6: Live in Amsterdam (2001) como una de las propias producciones de Tiësto que ayudaron a definir el sonido de esa época."
+      }
+    },
+    {
+      "id": "disc_tf_010",
+      "category": "discography",
+      "difficulty": "true_fan",
+      "question": {
+        "en": "'A Town Called Paradise' was released on which label?",
+        "es": "¿'A Town Called Paradise' fue lanzado en qué sello?"
+      },
+      "answers": {
+        "en": [
+          "Musical Freedom / Island",
+          "Black Hole",
+          "Armada",
+          "Spinnin'"
+        ],
+        "es": [
+          "Musical Freedom / Island",
+          "Black Hole",
+          "Armada",
+          "Spinnin'"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "'A Town Called Paradise' (2014) was released via Musical Freedom in partnership with Island Records, reflecting Tiësto's major label mainstream ambitions.",
+        "es": "'A Town Called Paradise' (2014) fue lanzado a través de Musical Freedom en asociación con Island Records, reflejando las ambiciones mainstream de Tiësto con un gran sello."
+      }
+    },
+    {
+      "id": "disc_tf_011",
+      "category": "discography",
+      "difficulty": "true_fan",
+      "question": {
+        "en": "Which vocalist appeared on 'Lethal Industry' (2003)?",
+        "es": "¿Qué vocalista apareció en 'Lethal Industry' (2003)?"
+      },
+      "answers": {
+        "en": [
+          "The track is purely instrumental",
+          "Charlotte",
+          "Jan Johnston",
+          "Emma Hewitt"
+        ],
+        "es": [
+          "El tema es puramente instrumental",
+          "Charlotte",
+          "Jan Johnston",
+          "Emma Hewitt"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "'Lethal Industry' is a vocal-free, driving trance track — the raw energy and tension come purely from the synth work and bass, with no vocalist involved.",
+        "es": "'Lethal Industry' es un tema de trance sin voces y de ritmo vertiginoso: la energía pura y la tensión provienen únicamente del trabajo de sintetizadores y bajos, sin ningún vocalista."
+      }
+    },
+    {
+      "id": "disc_tf_012",
+      "category": "discography",
+      "difficulty": "true_fan",
+      "question": {
+        "en": "'In My Memory' features Jan Johnston on which track?",
+        "es": "'In My Memory' cuenta con Jan Johnston en qué tema?"
+      },
+      "answers": {
+        "en": [
+          "Touched",
+          "In My Memory (title track)",
+          "Urban Train",
+          "Suburban Train"
+        ],
+        "es": [
+          "Touched",
+          "In My Memory (tema principal)",
+          "Urban Train",
+          "Suburban Train"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Jan Johnston, a British vocalist who has collaborated widely in trance, appeared on 'Touched' from Tiësto's debut album In My Memory.",
+        "es": "Jan Johnston, vocalista británica que ha colaborado ampliamente en el trance, apareció en 'Touched' del álbum debut de Tiësto, In My Memory."
+      }
+    },
+    {
+      "id": "disc_tf_013",
+      "category": "discography",
+      "difficulty": "true_fan",
+      "question": {
+        "en": "'The Business Pt. II' featured which two artists alongside Tiësto?",
+        "es": "'The Business Pt. II' contó con qué dos artistas junto a Tiësto?"
+      },
+      "answers": {
+        "en": [
+          "Ty Dolla $ign and Jhay Cortez",
+          "Karol G and Bad Bunny",
+          "Doja Cat and Cardi B",
+          "Juice WRLD and Post Malone"
+        ],
+        "es": [
+          "Ty Dolla $ign y Jhay Cortez",
+          "Karol G y Bad Bunny",
+          "Doja Cat y Cardi B",
+          "Juice WRLD y Post Malone"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "'The Business Pt. II' featured Ty Dolla $ign and Jhay Cortez, expanding the original's sound into Latin and R&B crossover territory.",
+        "es": "'The Business Pt. II' contó con Ty Dolla $ign y Jhay Cortez, expandiendo el sonido del original hacia el territorio del crossover latino y R&B."
+      }
+    },
+    {
+      "id": "disc_tf_014",
+      "category": "discography",
+      "difficulty": "true_fan",
+      "question": {
+        "en": "Which song from 'Just Be' (2004) charted significantly in the UK?",
+        "es": "¿Qué canción de 'Just Be' (2004) tuvo un rendimiento significativo en las listas del Reino Unido?"
+      },
+      "answers": {
+        "en": [
+          "Traffic",
+          "Love Comes Again",
+          "Adagio for Strings",
+          "Just Be"
+        ],
+        "es": [
+          "Traffic",
+          "Love Comes Again",
+          "Adagio for Strings",
+          "Just Be"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "'Traffic' from the Just Be era (originally released in 2003) charted in the UK Top 20 and is considered one of Tiësto's signature trance anthems.",
+        "es": "'Traffic' de la era Just Be (lanzado originalmente en 2003) entró en el Top 20 del Reino Unido y se considera uno de los himnos de trance característicos de Tiësto."
+      }
+    },
+    {
+      "id": "disc_tf_015",
+      "category": "discography",
+      "difficulty": "true_fan",
+      "question": {
+        "en": "'Club Life Volume 5' was a compilation released as a tribute to which city?",
+        "es": "'Club Life Volume 5' fue una compilación lanzada como homenaje a qué ciudad?"
+      },
+      "answers": {
+        "en": [
+          "Las Vegas",
+          "New York",
+          "Miami",
+          "Los Angeles"
+        ],
+        "es": [
+          "Las Vegas",
+          "Nueva York",
+          "Miami",
+          "Los Ángeles"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Club Life Volume 5 – Las Vegas was released in 2015, celebrating Tiësto's strong connection to the city through his Hakkasan residency.",
+        "es": "Club Life Volume 5 – Las Vegas fue lanzado en 2015, celebrando la fuerte conexión de Tiësto con la ciudad a través de su residencia en Hakkasan."
+      }
+    },
+    {
+      "id": "disc_tf_016",
+      "category": "discography",
+      "difficulty": "true_fan",
+      "question": {
+        "en": "Which Tiësto track features the vocals of Canadian singer Tegan and Sara?",
+        "es": "¿Qué tema de Tiësto incluye las voces de las cantantes canadienses Tegan and Sara?"
+      },
+      "answers": {
+        "en": [
+          "Feel It In My Bones",
+          "Knock You Out",
+          "Who Wants To Be Alone",
+          "Kaleidoscope"
+        ],
+        "es": [
+          "Feel It In My Bones",
+          "Knock You Out",
+          "Who Wants To Be Alone",
+          "Kaleidoscope"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "'Feel It In My Bones' from Kaleidoscope features Tegan and Sara, the indie pop duo, adding a distinctive guitar-pop flavour to Tiësto's electronic production.",
+        "es": "'Feel It In My Bones' de Kaleidoscope cuenta con Tegan and Sara, el dúo de indie pop, añadiendo un distintivo sabor guitar-pop a la producción electrónica de Tiësto."
+      }
+    },
+    {
+      "id": "disc_tf_017",
+      "category": "discography",
+      "difficulty": "true_fan",
+      "question": {
+        "en": "'Wasted' (2014) features which vocalist?",
+        "es": "¿Qué vocalista aparece en 'Wasted' (2014)?"
+      },
+      "answers": {
+        "en": [
+          "Matthew Koma",
+          "Mikky Ekko",
+          "Zac Brown",
+          "JP Cooper"
+        ],
+        "es": [
+          "Matthew Koma",
+          "Mikky Ekko",
+          "Zac Brown",
+          "JP Cooper"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "'Wasted' featuring Matthew Koma was one of the lead singles from 'A Town Called Paradise', becoming a significant crossover hit and radio staple in 2014.",
+        "es": "'Wasted' con Matthew Koma fue uno de los sencillos principales de 'A Town Called Paradise', convirtiéndose en un notable éxito crossover y un favorito de la radio en 2014."
+      }
+    },
+    {
+      "id": "disc_s_001",
+      "category": "discography",
+      "difficulty": "scholar",
+      "question": {
+        "en": "Which 'Magik' volume was recorded live in Los Angeles?",
+        "es": "¿Qué volumen de 'Magik' fue grabado en vivo en Los Ángeles?"
+      },
+      "answers": {
+        "en": [
+          "Magik 7",
+          "Magik 5",
+          "Magik 6",
+          "Magik 4"
+        ],
+        "es": [
+          "Magik 7",
+          "Magik 5",
+          "Magik 6",
+          "Magik 4"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Magik 7: Live in Los Angeles (2001) was the final volume in the Magik series, recorded at one of Tiësto's landmark US performances.",
+        "es": "Magik 7: Live in Los Angeles (2001) fue el volumen final de la serie Magik, grabado en una de las actuaciones emblemáticas de Tiësto en Estados Unidos."
+      }
+    },
+    {
+      "id": "disc_s_002",
+      "category": "discography",
+      "difficulty": "scholar",
+      "question": {
+        "en": "Which vocalist was featured on 'In My Memory' (the title track)?",
+        "es": "¿Qué vocalista aparece en 'In My Memory' (el tema principal)?"
+      },
+      "answers": {
+        "en": [
+          "Marcia",
+          "Jan Johnston",
+          "Kirsty Hawkshaw",
+          "Charlotte"
+        ],
+        "es": [
+          "Marcia",
+          "Jan Johnston",
+          "Kirsty Hawkshaw",
+          "Charlotte"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "The title track 'In My Memory' features the voice of Marcia, delivering a haunting and emotional vocal that became one of the defining sounds of early Tiësto.",
+        "es": "El tema principal 'In My Memory' presenta la voz de Marcia, ofreciendo una interpretación vocal evocadora y emotiva que se convirtió en uno de los sonidos definitorios de la etapa inicial de Tiësto."
+      }
+    },
+    {
+      "id": "disc_s_003",
+      "category": "discography",
+      "difficulty": "scholar",
+      "question": {
+        "en": "What is the BPM (tempo) of 'Traffic'?",
+        "es": "¿Cuál es el BPM (tempo) de 'Traffic'?"
+      },
+      "answers": {
+        "en": [
+          "138",
+          "128",
+          "145",
+          "120"
+        ],
+        "es": [
+          "138",
+          "128",
+          "145",
+          "120"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "'Traffic' runs at approximately 138 BPM, a tempo typical of early-to-mid 2000s uplifting trance, sitting between progressive and harder trance styles.",
+        "es": "'Traffic' corre a aproximadamente 138 BPM, un tempo típico del trance uplifting de principios y mediados de los 2000, situado entre el trance progresivo y el más duro."
+      }
+    },
+    {
+      "id": "disc_s_004",
+      "category": "discography",
+      "difficulty": "scholar",
+      "question": {
+        "en": "'In Search of Sunrise 6: Ibiza' was released in which year?",
+        "es": "'In Search of Sunrise 6: Ibiza' fue lanzado en qué año?"
+      },
+      "answers": {
+        "en": [
+          "2007",
+          "2005",
+          "2009",
+          "2003"
+        ],
+        "es": [
+          "2007",
+          "2005",
+          "2009",
+          "2003"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "In Search of Sunrise 6: Ibiza was released in 2007 and celebrated the island that had been central to Tiësto's career growth and sound development.",
+        "es": "In Search of Sunrise 6: Ibiza fue lanzado en 2007 y celebró la isla que había sido fundamental para el crecimiento de la carrera y el desarrollo del sonido de Tiësto."
+      }
+    },
+    {
+      "id": "disc_s_005",
+      "category": "discography",
+      "difficulty": "scholar",
+      "question": {
+        "en": "Tiësto co-wrote 'The Business' with which set of writers?",
+        "es": "¿Con qué conjunto de compositores co-escribió Tiësto 'The Business'?"
+      },
+      "answers": {
+        "en": [
+          "Tiësto wrote it with multiple pop/electronic collaborators",
+          "He wrote it solo",
+          "It was a sample-based track",
+          "It was an interpolation of an older song"
+        ],
+        "es": [
+          "Tiësto lo escribió con múltiples colaboradores de pop/electrónica",
+          "Lo escribió solo",
+          "Fue un tema basado en samples",
+          "Fue una interpolación de una canción más antigua"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "'The Business' was co-written by Tiësto alongside a team of songwriters, a common approach for his commercial releases that ensures both chart appeal and electronic credibility.",
+        "es": "'The Business' fue co-escrito por Tiësto junto a un equipo de compositores, un enfoque común para sus lanzamientos comerciales que garantiza tanto el atractivo para las listas como la credibilidad electrónica."
+      }
+    },
+    {
+      "id": "disc_s_006",
+      "category": "discography",
+      "difficulty": "scholar",
+      "question": {
+        "en": "The 'Club Life' compilation series volumes were subtitled by which cities/regions?",
+        "es": "Los volúmenes de la serie de compilaciones 'Club Life' llevaban como subtítulos qué ciudades/regiones?"
+      },
+      "answers": {
+        "en": [
+          "Amsterdam, Miami, New York, Stockholm, Las Vegas",
+          "Paris, London, Tokyo, Sydney, Berlin",
+          "Ibiza, Barcelona, NYC, LA, Chicago",
+          "Berlin, Dubai, Singapore, Melbourne, Toronto"
+        ],
+        "es": [
+          "Ámsterdam, Miami, Nueva York, Estocolmo, Las Vegas",
+          "París, Londres, Tokio, Sídney, Berlín",
+          "Ibiza, Barcelona, NYC, LA, Chicago",
+          "Berlín, Dubái, Singapur, Melbourne, Toronto"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "The Club Life volumes were dedicated to Amsterdam (vol.1), Miami (vol.2), New York (vol.3), Stockholm (vol.4), and Las Vegas (vol.5), each capturing the vibe of those club scenes.",
+        "es": "Los volúmenes de Club Life fueron dedicados a Ámsterdam (vol.1), Miami (vol.2), Nueva York (vol.3), Estocolmo (vol.4) y Las Vegas (vol.5), cada uno capturando el ambiente de esas escenas de clubs."
+      }
+    },
+    {
+      "id": "disc_s_007",
+      "category": "discography",
+      "difficulty": "scholar",
+      "question": {
+        "en": "Which Tiësto track uses a riff from 'The Rite of Spring' by Stravinsky?",
+        "es": "¿Qué tema de Tiësto usa un riff de 'La consagración de la primavera' de Stravinsky?"
+      },
+      "answers": {
+        "en": [
+          "Flight 643",
+          "Adagio for Strings",
+          "Traffic",
+          "Lethal Industry"
+        ],
+        "es": [
+          "Flight 643",
+          "Adagio for Strings",
+          "Traffic",
+          "Lethal Industry"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "'Flight 643' subtly references classical orchestral sounds, and while not a direct Stravinsky interpolation, it reflects Tiësto's longstanding interest in blending classical motifs with trance.",
+        "es": "'Flight 643' hace referencia sutil a sonidos orquestales clásicos, y aunque no es una interpolación directa de Stravinsky, refleja el interés permanente de Tiësto en combinar motivos clásicos con trance."
+      }
+    },
+    {
+      "id": "disc_s_008",
+      "category": "discography",
+      "difficulty": "scholar",
+      "question": {
+        "en": "'Summerbreeze' was an early Tiësto track released under which sub-label?",
+        "es": "'Summerbreeze' fue un primer tema de Tiësto lanzado bajo qué sub-sello?"
+      },
+      "answers": {
+        "en": [
+          "Magik Music",
+          "Nyana",
+          "Black Hole",
+          "Armada"
+        ],
+        "es": [
+          "Magik Music",
+          "Nyana",
+          "Black Hole",
+          "Armada"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Several of Tiësto's early tracks appeared on Magik Music, the sub-label tied to the Magik compilation series and his foundational trance releases.",
+        "es": "Varios de los primeros temas de Tiësto aparecieron en Magik Music, el sub-sello vinculado a la serie de compilaciones Magik y sus lanzamientos de trance fundacionales."
+      }
+    },
+    {
+      "id": "disc_s_009",
+      "category": "discography",
+      "difficulty": "scholar",
+      "question": {
+        "en": "Which famous cellist performed on Tiësto's recording of 'Adagio for Strings'?",
+        "es": "¿Qué famoso violonchelista tocó en la grabación de Tiësto de 'Adagio for Strings'?"
+      },
+      "answers": {
+        "en": [
+          "No live cellist — it uses sampled/synthesized strings",
+          "Yo-Yo Ma",
+          "Julian Lloyd Webber",
+          "Steven Isserlis"
+        ],
+        "es": [
+          "Ningún chelista en vivo — usa cuerdas sampleadas/sintetizadas",
+          "Yo-Yo Ma",
+          "Julian Lloyd Webber",
+          "Steven Isserlis"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Tiësto's 'Adagio for Strings' uses synthesised string arrangements rather than live orchestral performers, which is how he transformed the classical piece into a trance anthem.",
+        "es": "'Adagio for Strings' de Tiësto utiliza arreglos de cuerdas sintetizadas en lugar de intérpretes orquestales en vivo, que es como transformó la pieza clásica en un himno de trance."
+      }
+    },
+    {
+      "id": "disc_s_010",
+      "category": "discography",
+      "difficulty": "scholar",
+      "question": {
+        "en": "Tiësto's 2022 album 'Drive' was released through which label?",
+        "es": "El álbum 'Drive' de Tiësto de 2022 fue lanzado a través de qué sello?"
+      },
+      "answers": {
+        "en": [
+          "Atlantic Records",
+          "Musical Freedom",
+          "Capitol",
+          "Interscope"
+        ],
+        "es": [
+          "Atlantic Records",
+          "Musical Freedom",
+          "Capitol",
+          "Interscope"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "'Drive' (2022) was released via Atlantic Records, representing Tiësto's move to one of the world's biggest major labels and his most ambitious mainstream push yet.",
+        "es": "'Drive' (2022) fue lanzado a través de Atlantic Records, representando el traslado de Tiësto a uno de los sellos principales más grandes del mundo y su apuesta mainstream más ambiciosa hasta la fecha."
+      }
+    },
+    {
+      "id": "disc_s_011",
+      "category": "discography",
+      "difficulty": "scholar",
+      "question": {
+        "en": "'10:35' (2022) featuring Tate McRae peaked at what position on the Billboard Hot 100?",
+        "es": "'10:35' (2022) con Tate McRae, ¿en qué posición llegó en el Billboard Hot 100?"
+      },
+      "answers": {
+        "en": [
+          "Top 30",
+          "Top 10",
+          "Top 50",
+          "Did not chart on Hot 100"
+        ],
+        "es": [
+          "Top 30",
+          "Top 10",
+          "Top 50",
+          "No entró en el Hot 100"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "'10:35' featuring Tate McRae was one of Tiësto's highest-charting US singles, reaching the Top 30 on the Billboard Hot 100 and signalling his renewed mainstream momentum.",
+        "es": "'10:35' con Tate McRae fue uno de los sencillos de Tiësto con mejor rendimiento en EE.UU., alcanzando el Top 30 en el Billboard Hot 100 y señalando su renovado impulso mainstream."
+      }
+    },
+    {
+      "id": "disc_s_012",
+      "category": "discography",
+      "difficulty": "scholar",
+      "question": {
+        "en": "'Tiësto in Concert' (2004) was recorded at which large Dutch venue?",
+        "es": "'Tiësto in Concert' (2004) fue grabado en qué gran recinto holandés?"
+      },
+      "answers": {
+        "en": [
+          "Gelredome stadium",
+          "Amsterdam ArenA",
+          "Ziggo Dome",
+          "Heineken Music Hall"
+        ],
+        "es": [
+          "Estadio Gelredome",
+          "Amsterdam ArenA",
+          "Ziggo Dome",
+          "Heineken Music Hall"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "'Tiësto in Concert' was recorded at the Gelredome stadium in Arnhem, Netherlands, before an audience of 25,000 fans — one of the defining live recordings in trance history.",
+        "es": "'Tiësto in Concert' fue grabado en el estadio Gelredome de Arnhem, Países Bajos, ante una audiencia de 25.000 fans: una de las grabaciones en vivo más definitorias de la historia del trance."
+      }
+    },
+    {
+      "id": "disc_s_013",
+      "category": "discography",
+      "difficulty": "scholar",
+      "question": {
+        "en": "Which year did Tiësto release 'Copenhagen' featuring Bloc Party's Kele?",
+        "es": "¿En qué año lanzó Tiësto 'Copenhagen' con Kele de Bloc Party?"
+      },
+      "answers": {
+        "en": [
+          "2013",
+          "2010",
+          "2015",
+          "2009"
+        ],
+        "es": [
+          "2013",
+          "2010",
+          "2015",
+          "2009"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "'Copenhagen' was released in 2013, part of Tiësto's transition-era releases that blended his progressive trance roots with more contemporary EDM sounds.",
+        "es": "'Copenhagen' fue lanzado en 2013, parte de los lanzamientos de la era de transición de Tiësto que mezclaron sus raíces del trance progresivo con sonidos EDM más contemporáneos."
+      }
+    },
+    {
+      "id": "disc_s_014",
+      "category": "discography",
+      "difficulty": "scholar",
+      "question": {
+        "en": "'Drive' (2022) includes a collaboration with which country artist?",
+        "es": "'Drive' (2022) incluye una colaboración con qué artista de country?"
+      },
+      "answers": {
+        "en": [
+          "Zac Brown",
+          "Thomas Rhett",
+          "Luke Combs",
+          "Kacey Musgraves"
+        ],
+        "es": [
+          "Zac Brown",
+          "Thomas Rhett",
+          "Luke Combs",
+          "Kacey Musgraves"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "'Drive' features a collaboration with Zac Brown, the country music star, on the track 'Jackie Chan' — one of the more unexpected genre-crossing moments of Tiësto's recent career.",
+        "es": "'Drive' incluye una colaboración con Zac Brown, la estrella de la música country, en el tema 'Jackie Chan', uno de los momentos de cruce de géneros más inesperados de la reciente carrera de Tiësto."
+      }
+    },
+    {
+      "id": "disc_s_015",
+      "category": "discography",
+      "difficulty": "scholar",
+      "question": {
+        "en": "Tiësto's remix of 'Silence' by Delerium featuring Sarah McLachlan was notable for what reason?",
+        "es": "El remix de Tiësto de 'Silence' de Delerium con Sarah McLachlan fue notable por qué razón?"
+      },
+      "answers": {
+        "en": [
+          "It became one of the most streamed trance remixes ever",
+          "It was the first trance song on a major chart",
+          "He played it at the Olympics",
+          "It featured a live orchestra"
+        ],
+        "es": [
+          "Se convirtió en uno de los remixes de trance más escuchados en streaming",
+          "Fue la primera canción de trance en una gran lista",
+          "Lo tocó en los Juegos Olímpicos",
+          "Contó con una orquesta en vivo"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Tiësto's remix of 'Silence' by Delerium became one of the most beloved trance remixes of all time, helping introduce the genre to a wider audience in the early 2000s.",
+        "es": "El remix de Tiësto de 'Silence' de Delerium se convirtió en uno de los remixes de trance más queridos de todos los tiempos, ayudando a presentar el género a una audiencia más amplia a principios de los 2000."
+      }
+    },
+    {
+      "id": "disc_s_016",
+      "category": "discography",
+      "difficulty": "scholar",
+      "question": {
+        "en": "Which Tiësto & Dzeko track became a top 10 hit in multiple European countries in 2016?",
+        "es": "¿Qué tema de Tiësto y Dzeko se convirtió en un éxito de top 10 en varios países europeos en 2016?"
+      },
+      "answers": {
+        "en": [
+          "Jackie Chan",
+          "Gravity",
+          "Welcome to the Jungle",
+          "The Business"
+        ],
+        "es": [
+          "Jackie Chan",
+          "Gravity",
+          "Welcome to the Jungle",
+          "The Business"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "'Jackie Chan' by Tiësto & Dzeko featuring Post Malone and Preme became a viral hit in 2018, reaching the top 10 in multiple European markets.",
+        "es": "'Jackie Chan' de Tiësto y Dzeko con Post Malone y Preme se convirtió en un éxito viral en 2018, alcanzando el top 10 en múltiples mercados europeos."
+      }
+    },
+    {
+      "id": "edm_c_001",
+      "category": "edm_culture",
+      "difficulty": "casual",
+      "question": {
+        "en": "What does 'EDM' stand for?",
+        "es": "¿Qué significa 'EDM'?"
+      },
+      "answers": {
+        "en": [
+          "Electronic Dance Music",
+          "Electronic Digital Mix",
+          "Extended Dance Music",
+          "Electronic DJ Music"
+        ],
+        "es": [
+          "Música Dance Electrónica",
+          "Electronic Digital Mix",
+          "Extended Dance Music",
+          "Electronic DJ Music"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "EDM (Electronic Dance Music) is a broad umbrella term for electronic music genres primarily made for dancing in nightclubs and festivals.",
+        "es": "EDM (Electronic Dance Music) es un término general amplio para los géneros de música electrónica creados principalmente para bailar en discotecas y festivales."
+      }
+    },
+    {
+      "id": "edm_c_002",
+      "category": "edm_culture",
+      "difficulty": "casual",
+      "question": {
+        "en": "What is 'the drop' in an EDM track?",
+        "es": "¿Qué es 'the drop' en un tema de EDM?"
+      },
+      "answers": {
+        "en": [
+          "The climactic moment after the build-up when the full beat hits",
+          "The beginning of the song",
+          "The ending fade-out",
+          "A technical glitch in the mix"
+        ],
+        "es": [
+          "El momento culminante después de la construcción cuando el beat completo llega",
+          "El comienzo de la canción",
+          "El fundido de salida al final",
+          "Un fallo técnico en la mezcla"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "The drop is the most anticipated moment in an EDM track — after tension builds through a breakdown, the full bassline and beat return with maximum energy.",
+        "es": "El drop es el momento más esperado en un tema de EDM: después de que la tensión se acumula durante un break, el bajo completo y el beat regresan con máxima energía."
+      }
+    },
+    {
+      "id": "edm_c_003",
+      "category": "edm_culture",
+      "difficulty": "casual",
+      "question": {
+        "en": "What does BPM stand for in music?",
+        "es": "¿Qué significa BPM en música?"
+      },
+      "answers": {
+        "en": [
+          "Beats Per Minute",
+          "Bass Per Measure",
+          "Bars Per Mix",
+          "Beat Phase Modulation"
+        ],
+        "es": [
+          "Pulsaciones por minuto",
+          "Bass Per Measure",
+          "Bars Per Mix",
+          "Beat Phase Modulation"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "BPM (Beats Per Minute) is the unit used to measure the tempo of music. Trance typically ranges from 128–145 BPM, while harder styles like techno can exceed 150 BPM.",
+        "es": "BPM (pulsaciones por minuto) es la unidad utilizada para medir el tempo musical. El trance generalmente oscila entre 128 y 145 BPM, mientras que estilos más duros como el techno pueden superar los 150 BPM."
+      }
+    },
+    {
+      "id": "edm_c_004",
+      "category": "edm_culture",
+      "difficulty": "casual",
+      "question": {
+        "en": "Which Belgian festival is considered the largest electronic music festival in the world?",
+        "es": "¿Qué festival belga es considerado el festival de música electrónica más grande del mundo?"
+      },
+      "answers": {
+        "en": [
+          "Tomorrowland",
+          "Creamfields",
+          "Ultra",
+          "Electric Daisy Carnival"
+        ],
+        "es": [
+          "Tomorrowland",
+          "Creamfields",
+          "Ultra",
+          "Electric Daisy Carnival"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Tomorrowland, held in Boom, Belgium, is widely regarded as the world's premier electronic music festival, drawing hundreds of thousands of attendees across multiple weekends.",
+        "es": "Tomorrowland, celebrado en Boom, Bélgica, es ampliamente considerado el principal festival de música electrónica del mundo, atrayendo a cientos de miles de asistentes en varios fines de semana."
+      }
+    },
+    {
+      "id": "edm_c_005",
+      "category": "edm_culture",
+      "difficulty": "casual",
+      "question": {
+        "en": "Which Spanish island is known as the 'clubbing capital of the world'?",
+        "es": "¿Qué isla española es conocida como la 'capital mundial del clubbing'?"
+      },
+      "answers": {
+        "en": [
+          "Ibiza",
+          "Mallorca",
+          "Menorca",
+          "Tenerife"
+        ],
+        "es": [
+          "Ibiza",
+          "Mallorca",
+          "Menorca",
+          "Tenerife"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Ibiza has been the global epicentre of nightlife and DJ culture since the 1980s, home to legendary clubs including Amnesia, Pacha, DC-10, and Ushuaïa.",
+        "es": "Ibiza ha sido el epicentro global de la vida nocturna y la cultura DJ desde los años 80, sede de legendarios clubs como Amnesia, Pacha, DC-10 y Ushuaïa."
+      }
+    },
+    {
+      "id": "edm_c_006",
+      "category": "edm_culture",
+      "difficulty": "casual",
+      "question": {
+        "en": "What is a 'CDJ' used by DJs?",
+        "es": "¿Qué es un 'CDJ' usado por los DJs?"
+      },
+      "answers": {
+        "en": [
+          "A digital media player for DJs (by Pioneer DJ)",
+          "A type of mixing desk",
+          "A speaker system",
+          "A DJ software application"
+        ],
+        "es": [
+          "Un reproductor de medios digital para DJs (de Pioneer DJ)",
+          "Un tipo de mesa de mezclas",
+          "Un sistema de altavoces",
+          "Una aplicación de software para DJ"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "CDJ stands for CD Jockey — Pioneer DJ's industry-standard media players used by professional DJs worldwide. Modern CDJs support USB and streaming playback.",
+        "es": "CDJ significa CD Jockey: los reproductores de medios estándar de la industria de Pioneer DJ utilizados por DJs profesionales en todo el mundo. Los CDJs modernos admiten reproducción por USB y streaming."
+      }
+    },
+    {
+      "id": "edm_c_007",
+      "category": "edm_culture",
+      "difficulty": "casual",
+      "question": {
+        "en": "Which US city hosts the Ultra Music Festival?",
+        "es": "¿Qué ciudad estadounidense alberga el Ultra Music Festival?"
+      },
+      "answers": {
+        "en": [
+          "Miami",
+          "Las Vegas",
+          "Los Angeles",
+          "New York"
+        ],
+        "es": [
+          "Miami",
+          "Las Vegas",
+          "Los Ángeles",
+          "Nueva York"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Ultra Music Festival takes place annually in Miami, Florida, as part of the Winter Music Conference week, and is one of the most prestigious EDM events globally.",
+        "es": "El Ultra Music Festival se celebra anualmente en Miami, Florida, como parte de la semana de la Winter Music Conference, y es uno de los eventos de EDM más prestigiosos a nivel mundial."
+      }
+    },
+    {
+      "id": "edm_c_008",
+      "category": "edm_culture",
+      "difficulty": "casual",
+      "question": {
+        "en": "What is a DJ 'set'?",
+        "es": "¿Qué es un 'set' de DJ?"
+      },
+      "answers": {
+        "en": [
+          "A DJ performance playing and mixing tracks",
+          "The equipment a DJ uses",
+          "A record collection",
+          "A DJ's contract"
+        ],
+        "es": [
+          "Una actuación de DJ tocando y mezclando temas",
+          "El equipo que usa un DJ",
+          "Una colección de discos",
+          "El contrato de un DJ"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "A DJ set refers to the live performance where a DJ mixes tracks together in a continuous flow, typically lasting 1–6+ hours depending on the event.",
+        "es": "Un set de DJ se refiere a la actuación en vivo donde un DJ mezcla temas de forma continua, con una duración típica de 1 a 6 o más horas según el evento."
+      }
+    },
+    {
+      "id": "edm_c_009",
+      "category": "edm_culture",
+      "difficulty": "casual",
+      "question": {
+        "en": "What does 'trance' in trance music refer to?",
+        "es": "¿A qué se refiere 'trance' en la música trance?"
+      },
+      "answers": {
+        "en": [
+          "The hypnotic, meditative state the music induces",
+          "A specific tempo range only",
+          "The nationality of its producers",
+          "The use of acoustic instruments"
+        ],
+        "es": [
+          "El estado hipnótico y meditativo que induce la música",
+          "Solo un rango de tempo específico",
+          "La nacionalidad de sus productores",
+          "El uso de instrumentos acústicos"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Trance music is named for the hypnotic, euphoric state it aims to induce in listeners and dancers — achieved through repetitive melodies, sweeping synths, and emotional builds.",
+        "es": "La música trance toma su nombre del estado hipnótico y eufórico que pretende inducir en oyentes y bailarines, logrado mediante melodías repetitivas, sintetizadores envolventes y crescendos emotivos."
+      }
+    },
+    {
+      "id": "edm_c_010",
+      "category": "edm_culture",
+      "difficulty": "casual",
+      "question": {
+        "en": "What is the name of Armin van Buuren's long-running radio show?",
+        "es": "¿Cómo se llama el programa de radio de larga trayectoria de Armin van Buuren?"
+      },
+      "answers": {
+        "en": [
+          "A State of Trance",
+          "Club Life",
+          "Above & Beyond",
+          "Trance Nation"
+        ],
+        "es": [
+          "A State of Trance",
+          "Club Life",
+          "Above & Beyond",
+          "Trance Nation"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "A State of Trance (ASOT) has been running since 2001, making it one of the world's longest-running DJ radio shows and a companion to Tiësto's own Club Life.",
+        "es": "A State of Trance (ASOT) lleva en funcionamiento desde 2001, siendo uno de los programas de radio de DJ de mayor duración del mundo y un compañero del propio Club Life de Tiësto."
+      }
+    },
+    {
+      "id": "edm_c_011",
+      "category": "edm_culture",
+      "difficulty": "casual",
+      "question": {
+        "en": "What does a DJ use to blend two tracks together seamlessly?",
+        "es": "¿Qué usa un DJ para mezclar dos temas sin interrupciones?"
+      },
+      "answers": {
+        "en": [
+          "A crossfader on a mixer",
+          "A metronome",
+          "A sampler",
+          "A vocal processor"
+        ],
+        "es": [
+          "Un crossfader en una mesa de mezclas",
+          "Un metrónomo",
+          "Un sampler",
+          "Un procesador vocal"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "The crossfader on a DJ mixer allows smooth transitions between two channels (tracks), gradually shifting the audio output from one to the other — the foundation of DJ mixing technique.",
+        "es": "El crossfader en una mesa de mezclas de DJ permite transiciones suaves entre dos canales (temas), desplazando gradualmente la salida de audio de uno a otro: el fundamento de la técnica de mezcla de DJ."
+      }
+    },
+    {
+      "id": "edm_c_012",
+      "category": "edm_culture",
+      "difficulty": "casual",
+      "question": {
+        "en": "Which European city is considered the capital of techno music?",
+        "es": "¿Qué ciudad europea es considerada la capital de la música techno?"
+      },
+      "answers": {
+        "en": [
+          "Berlin",
+          "London",
+          "Amsterdam",
+          "Barcelona"
+        ],
+        "es": [
+          "Berlín",
+          "Londres",
+          "Ámsterdam",
+          "Barcelona"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Berlin's club scene — including iconic venues like Berghain and Tresor — has made it the global capital of techno and underground electronic music.",
+        "es": "La escena de clubs de Berlín, con lugares icónicos como Berghain y Tresor, la ha convertido en la capital global del techno y la música electrónica underground."
+      }
+    },
+    {
+      "id": "edm_c_013",
+      "category": "edm_culture",
+      "difficulty": "casual",
+      "question": {
+        "en": "What is a 'breakdown' in an EDM track?",
+        "es": "¿Qué es un 'breakdown' en un tema de EDM?"
+      },
+      "answers": {
+        "en": [
+          "A section where the beat drops out and tension builds",
+          "The end of the song",
+          "A technical failure",
+          "A slow intro"
+        ],
+        "es": [
+          "Una sección donde el beat desaparece y la tensión aumenta",
+          "El final de la canción",
+          "Un fallo técnico",
+          "Una introducción lenta"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "A breakdown strips back the beat and layers, creating tension and anticipation before the euphoric release of the drop — the emotional core of trance and EDM structure.",
+        "es": "Un breakdown elimina el beat y las capas, creando tensión y anticipación antes de la eufórica liberación del drop: el núcleo emocional de la estructura del trance y el EDM."
+      }
+    },
+    {
+      "id": "edm_c_014",
+      "category": "edm_culture",
+      "difficulty": "casual",
+      "question": {
+        "en": "What does 'house music' have in common with trance?",
+        "es": "¿Qué tiene en común la 'house music' con el trance?"
+      },
+      "answers": {
+        "en": [
+          "Both are electronic genres with 4/4 kick drum patterns",
+          "They use the same BPM",
+          "They originated in the same city",
+          "Both use live drums exclusively"
+        ],
+        "es": [
+          "Ambos son géneros electrónicos con patrones de bombo en 4/4",
+          "Usan el mismo BPM",
+          "Se originaron en la misma ciudad",
+          "Ambos usan baterías en vivo exclusivamente"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Both house and trance are built on a 4/4 kick drum pattern (four beats per bar), giving both genres their driving, dancefloor-ready rhythmic foundation.",
+        "es": "Tanto el house como el trance están construidos sobre un patrón de bombo en 4/4 (cuatro tiempos por compás), lo que le da a ambos géneros su base rítmica impulsora y lista para la pista de baile."
+      }
+    },
+    {
+      "id": "edm_c_015",
+      "category": "edm_culture",
+      "difficulty": "casual",
+      "question": {
+        "en": "What is Tomorrowland's home country?",
+        "es": "¿En qué país se celebra Tomorrowland?"
+      },
+      "answers": {
+        "en": [
+          "Belgium",
+          "Netherlands",
+          "Germany",
+          "France"
+        ],
+        "es": [
+          "Bélgica",
+          "Países Bajos",
+          "Alemania",
+          "Francia"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Tomorrowland is held in Boom, a municipality in the Flemish province of Antwerp, Belgium, and has been running since 2005.",
+        "es": "Tomorrowland se celebra en Boom, un municipio en la provincia flamenca de Amberes, Bélgica, y lleva funcionando desde 2005."
+      }
+    },
+    {
+      "id": "edm_c_016",
+      "category": "edm_culture",
+      "difficulty": "casual",
+      "question": {
+        "en": "What is a DJ's 'rider'?",
+        "es": "¿Qué es el 'rider' de un DJ?"
+      },
+      "answers": {
+        "en": [
+          "A list of requirements the DJ demands for their performance",
+          "The DJ's transportation vehicle",
+          "A type of DJ turntable",
+          "The DJ's setlist"
+        ],
+        "es": [
+          "Una lista de requisitos que el DJ exige para su actuación",
+          "El vehículo de transporte del DJ",
+          "Un tipo de plato de DJ",
+          "El listado de canciones del DJ"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "A DJ rider is a contract attachment specifying the DJ's technical, hospitality, and accommodation requirements — everything from equipment specs to backstage catering.",
+        "es": "El rider de un DJ es un anexo al contrato que especifica los requisitos técnicos, de hospitalidad y alojamiento del DJ, desde las especificaciones del equipo hasta el catering en backstage."
+      }
+    },
+    {
+      "id": "edm_c_017",
+      "category": "edm_culture",
+      "difficulty": "casual",
+      "question": {
+        "en": "What is 'beatmatching' in DJing?",
+        "es": "¿Qué es el 'beatmatching' en el DJing?"
+      },
+      "answers": {
+        "en": [
+          "Synchronising the BPM of two tracks for a smooth transition",
+          "Creating original beats",
+          "Matching a beat to a visual",
+          "Identifying the key of a song"
+        ],
+        "es": [
+          "Sincronizar el BPM de dos temas para una transición suave",
+          "Crear beats originales",
+          "Sincronizar un beat a una imagen",
+          "Identificar el tono de una canción"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Beatmatching is the fundamental DJ skill of aligning the tempo of two tracks so they play in sync, allowing smooth transitions without jarring tempo clashes.",
+        "es": "El beatmatching es la habilidad fundamental del DJ de alinear el tempo de dos temas para que suenen sincronizados, permitiendo transiciones suaves sin choques de tempo discordantes."
+      }
+    },
+    {
+      "id": "edm_tf_001",
+      "category": "edm_culture",
+      "difficulty": "true_fan",
+      "question": {
+        "en": "In which year did the first Tomorrowland festival take place?",
+        "es": "¿En qué año tuvo lugar el primer festival Tomorrowland?"
+      },
+      "answers": {
+        "en": [
+          "2005",
+          "2008",
+          "2003",
+          "2010"
+        ],
+        "es": [
+          "2005",
+          "2008",
+          "2003",
+          "2010"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "The first Tomorrowland was held in 2005 in Boom, Belgium, with a modest crowd. It has since grown into one of the world's most-attended music events.",
+        "es": "El primer Tomorrowland se celebró en 2005 en Boom, Bélgica, con una asistencia modesta. Desde entonces se ha convertido en uno de los eventos musicales más concurridos del mundo."
+      }
+    },
+    {
+      "id": "edm_tf_002",
+      "category": "edm_culture",
+      "difficulty": "true_fan",
+      "question": {
+        "en": "What is 'uplifting trance' characterised by?",
+        "es": "¿Por qué se caracteriza el 'uplifting trance'?"
+      },
+      "answers": {
+        "en": [
+          "Euphoric melodies, emotional builds and high energy drops around 138-142 BPM",
+          "Dark minimal basslines under 120 BPM",
+          "Slow cinematic orchestrations above 160 BPM",
+          "Aggressive distorted synths at 150+ BPM"
+        ],
+        "es": [
+          "Melodías eufóricas, crescendos emotivos y drops de alta energía alrededor de 138-142 BPM",
+          "Líneas de bajo oscuras y minimalistas por debajo de 120 BPM",
+          "Orquestaciones cinematográficas lentas por encima de 160 BPM",
+          "Sintetizadores distorsionados y agresivos a más de 150 BPM"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Uplifting trance — the genre Tiësto mastered — combines euphoric chord progressions, soaring melodies, and emotional breakdowns at tempos typically between 138 and 142 BPM.",
+        "es": "El uplifting trance, el género que Tiësto dominó, combina progresiones de acordes eufóricas, melodías elevadas y breakdowns emotivos a tempos típicamente entre 138 y 142 BPM."
+      }
+    },
+    {
+      "id": "edm_tf_003",
+      "category": "edm_culture",
+      "difficulty": "true_fan",
+      "question": {
+        "en": "What is a 'B2B' DJ set?",
+        "es": "¿Qué es un set de DJ 'B2B'?"
+      },
+      "answers": {
+        "en": [
+          "Back-to-back — two DJs sharing the decks together",
+          "A DJ playing for 12+ hours",
+          "A DJ using backup equipment",
+          "A set exclusively using vinyl records"
+        ],
+        "es": [
+          "Back-to-back: dos DJs compartiendo las cabinas juntos",
+          "Un DJ tocando durante 12 o más horas",
+          "Un DJ usando equipos de respaldo",
+          "Un set usando exclusivamente discos de vinilo"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "A B2B (back-to-back) set involves two DJs alternating track selections at the same decks, creating an improvised musical conversation between the two artists.",
+        "es": "Un set B2B (back-to-back) implica que dos DJs alternan la selección de temas en las mismas cabinas, creando una conversación musical improvisada entre los dos artistas."
+      }
+    },
+    {
+      "id": "edm_tf_004",
+      "category": "edm_culture",
+      "difficulty": "true_fan",
+      "question": {
+        "en": "Which synthesiser sound is most associated with classic 1990s-2000s trance music?",
+        "es": "¿Qué sonido de sintetizador se asocia más con la música trance clásica de los años 90 y 2000?"
+      },
+      "answers": {
+        "en": [
+          "Supersaw (Roland JP-8000)",
+          "Moog bass",
+          "Hammond organ",
+          "Fender Rhodes electric piano"
+        ],
+        "es": [
+          "Supersaw (Roland JP-8000)",
+          "Bajo Moog",
+          "Órgano Hammond",
+          "Piano eléctrico Fender Rhodes"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "The 'supersaw' oscillator from Roland's JP-8000 synthesiser defined the lush, stacked-chord sound of trance and is one of the most recognisable timbres in electronic music history.",
+        "es": "El oscilador 'supersaw' del sintetizador JP-8000 de Roland definió el exuberante sonido de acordes apilados del trance y es uno de los timbres más reconocibles en la historia de la música electrónica."
+      }
+    },
+    {
+      "id": "edm_tf_005",
+      "category": "edm_culture",
+      "difficulty": "true_fan",
+      "question": {
+        "en": "What is 'sidechain compression' commonly used for in EDM production?",
+        "es": "¿Para qué se usa comúnmente la 'sidechain compression' en la producción de EDM?"
+      },
+      "answers": {
+        "en": [
+          "To make basslines and pads 'pump' rhythmically with the kick drum",
+          "To increase the volume of the master output",
+          "To add reverb to vocals",
+          "To tune instruments to the correct pitch"
+        ],
+        "es": [
+          "Para hacer que los bajos y pads 'bombeen' rítmicamente con el bombo",
+          "Para aumentar el volumen de la salida master",
+          "Para añadir reverb a las voces",
+          "Para afinar los instrumentos al tono correcto"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Sidechain compression is triggered by the kick drum signal to briefly duck other elements like bass and pads, creating the characteristic 'pumping' effect heard throughout EDM and trance.",
+        "es": "La compresión sidechain es activada por la señal del bombo para reducir brevemente otros elementos como el bajo y los pads, creando el característico efecto de 'bombeo' que se escucha en todo el EDM y el trance."
+      }
+    },
+    {
+      "id": "edm_tf_006",
+      "category": "edm_culture",
+      "difficulty": "true_fan",
+      "question": {
+        "en": "Which US city is considered the birthplace of techno music?",
+        "es": "¿Qué ciudad estadounidense es considerada el lugar de nacimiento de la música techno?"
+      },
+      "answers": {
+        "en": [
+          "Detroit",
+          "Chicago",
+          "New York",
+          "Atlanta"
+        ],
+        "es": [
+          "Detroit",
+          "Chicago",
+          "Nueva York",
+          "Atlanta"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Detroit is the birthplace of techno, developed in the 1980s by artists like Juan Atkins, Derrick May, and Kevin Saunderson (the Belleville Three), who fused funk and electronic sounds.",
+        "es": "Detroit es el lugar de nacimiento del techno, desarrollado en los años 80 por artistas como Juan Atkins, Derrick May y Kevin Saunderson (los Tres de Belleville), que fusionaron sonidos funk y electrónicos."
+      }
+    },
+    {
+      "id": "edm_tf_007",
+      "category": "edm_culture",
+      "difficulty": "true_fan",
+      "question": {
+        "en": "What is the difference between 'progressive house' and 'progressive trance'?",
+        "es": "¿Cuál es la diferencia entre el 'progressive house' y el 'progressive trance'?"
+      },
+      "answers": {
+        "en": [
+          "Progressive house is generally slower (125-128 BPM) with a deeper groove; progressive trance is faster (130-138 BPM) with more melodic, euphoric elements",
+          "They are identical genres",
+          "Progressive house uses more vocals",
+          "Progressive trance only uses acoustic instruments"
+        ],
+        "es": [
+          "El progressive house generalmente es más lento (125-128 BPM) con un groove más profundo; el progressive trance es más rápido (130-138 BPM) con elementos más melódicos y eufóricos",
+          "Son géneros idénticos",
+          "El progressive house usa más voces",
+          "El progressive trance usa únicamente instrumentos acústicos"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Progressive house typically sits at 124–128 BPM with a smooth, groove-oriented feel, while progressive trance runs faster at 130–138 BPM with more melodic and emotional character.",
+        "es": "El progressive house generalmente está a 124-128 BPM con un feeling suave y orientado al groove, mientras que el progressive trance corre más rápido a 130-138 BPM con un carácter más melódico y emotivo."
+      }
+    },
+    {
+      "id": "edm_tf_008",
+      "category": "edm_culture",
+      "difficulty": "true_fan",
+      "question": {
+        "en": "Which record label is Armin van Buuren's Armada Music best known for releasing?",
+        "es": "¿Con qué tipo de música es más conocido el sello Armada Music de Armin van Buuren?"
+      },
+      "answers": {
+        "en": [
+          "Trance and progressive",
+          "Drum and bass",
+          "Reggaeton",
+          "Hip-hop beats"
+        ],
+        "es": [
+          "Trance y progresivo",
+          "Drum and bass",
+          "Reggaetón",
+          "Ritmos de hip-hop"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Armada Music, co-founded by Armin van Buuren in 2003, is one of the world's largest independent dance labels and is primarily associated with trance and progressive electronic music.",
+        "es": "Armada Music, co-fundada por Armin van Buuren en 2003, es uno de los sellos de música dance independiente más grandes del mundo y está principalmente asociado con la música electrónica trance y progresiva."
+      }
+    },
+    {
+      "id": "edm_tf_009",
+      "category": "edm_culture",
+      "difficulty": "true_fan",
+      "question": {
+        "en": "What does 'rekordbox' refer to in DJ culture?",
+        "es": "¿A qué se refiere 'rekordbox' en la cultura DJ?"
+      },
+      "answers": {
+        "en": [
+          "Pioneer DJ's music management and DJ software",
+          "A vinyl record storage box",
+          "A type of DJ turntable",
+          "A festival ticket system"
+        ],
+        "es": [
+          "El software de gestión musical y DJ de Pioneer DJ",
+          "Una caja para almacenar discos de vinilo",
+          "Un tipo de plato de DJ",
+          "Un sistema de entradas para festivales"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Rekordbox is Pioneer DJ's music library management and performance software, used by most professional DJs worldwide to organise their tracks and prepare for live performances.",
+        "es": "Rekordbox es el software de gestión de biblioteca musical y rendimiento de Pioneer DJ, utilizado por la mayoría de los DJs profesionales de todo el mundo para organizar sus temas y prepararse para las actuaciones en vivo."
+      }
+    },
+    {
+      "id": "edm_tf_010",
+      "category": "edm_culture",
+      "difficulty": "true_fan",
+      "question": {
+        "en": "In which US year did EDM truly explode into mainstream American culture?",
+        "es": "¿En qué año explotó realmente el EDM en la cultura americana mainstream?"
+      },
+      "answers": {
+        "en": [
+          "2012",
+          "2008",
+          "2015",
+          "2005"
+        ],
+        "es": [
+          "2012",
+          "2008",
+          "2015",
+          "2005"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Around 2011–2012, EDM crossed into mainstream US culture, driven by festival growth, Las Vegas residencies, and crossover hits from DJs like Tiësto, Skrillex, and Deadmau5.",
+        "es": "Alrededor de 2011-2012, el EDM cruzó a la cultura mainstream estadounidense, impulsado por el crecimiento de festivales, residencias en Las Vegas y éxitos crossover de DJs como Tiësto, Skrillex y Deadmau5."
+      }
+    },
+    {
+      "id": "edm_tf_011",
+      "category": "edm_culture",
+      "difficulty": "true_fan",
+      "question": {
+        "en": "What is 'mixdown' in music production?",
+        "es": "¿Qué es el 'mixdown' en la producción musical?"
+      },
+      "answers": {
+        "en": [
+          "The process of balancing all audio elements into a final stereo track",
+          "A DJ performing live",
+          "Playing a vinyl record",
+          "A type of filter effect"
+        ],
+        "es": [
+          "El proceso de equilibrar todos los elementos de audio en una pista estéreo final",
+          "Un DJ actuando en vivo",
+          "Reproducir un disco de vinilo",
+          "Un tipo de efecto de filtro"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "A mixdown is the studio stage where individual tracks and elements are balanced, panned, and processed into a final stereo (or surround) master track ready for release.",
+        "es": "Un mixdown es la etapa de estudio donde los tracks individuales y elementos se equilibran, se panoramicen y procesan en una pista maestra estéreo final (o surround) lista para su lanzamiento."
+      }
+    },
+    {
+      "id": "edm_tf_012",
+      "category": "edm_culture",
+      "difficulty": "true_fan",
+      "question": {
+        "en": "Which Dutch city is considered the global capital of trance music?",
+        "es": "¿Qué ciudad holandesa es considerada la capital mundial de la música trance?"
+      },
+      "answers": {
+        "en": [
+          "Amsterdam",
+          "Rotterdam",
+          "The Hague",
+          "Eindhoven"
+        ],
+        "es": [
+          "Ámsterdam",
+          "Róterdam",
+          "La Haya",
+          "Eindhoven"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Amsterdam has long been the centre of the Dutch and global trance scene, home to Black Hole Recordings, Armada Music, and legendary clubs like IT that shaped the genre's history.",
+        "es": "Ámsterdam ha sido durante mucho tiempo el centro de la escena holandesa y mundial del trance, hogar de Black Hole Recordings, Armada Music y legendarios clubs como IT que moldearon la historia del género."
+      }
+    },
+    {
+      "id": "edm_tf_013",
+      "category": "edm_culture",
+      "difficulty": "true_fan",
+      "question": {
+        "en": "What is 'key mixing' in DJing?",
+        "es": "¿Qué es el 'key mixing' en el DJing?"
+      },
+      "answers": {
+        "en": [
+          "Mixing tracks that are in harmonically compatible musical keys",
+          "Using a keyboard instrument during a DJ set",
+          "Playing tracks in alphabetical order",
+          "Adjusting the EQ settings"
+        ],
+        "es": [
+          "Mezclar temas que están en tonalidades musicales armónicamente compatibles",
+          "Usar un instrumento de teclado durante un set de DJ",
+          "Reproducir temas en orden alfabético",
+          "Ajustar la configuración del ecualizador"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Key mixing (harmonic mixing) involves selecting tracks whose musical keys are compatible — typically using the Camelot Wheel system — to create smooth, melodically coherent transitions.",
+        "es": "El key mixing (mezcla armónica) implica seleccionar temas cuyas tonalidades musicales son compatibles, generalmente usando el sistema Camelot Wheel, para crear transiciones suaves y melódicamente coherentes."
+      }
+    },
+    {
+      "id": "edm_tf_014",
+      "category": "edm_culture",
+      "difficulty": "true_fan",
+      "question": {
+        "en": "Cream nightclub in Liverpool was associated with which music style closely connected to Tiësto's world?",
+        "es": "¿Con qué estilo musical, estrechamente relacionado con el mundo de Tiësto, se asoció el club Cream de Liverpool?"
+      },
+      "answers": {
+        "en": [
+          "Progressive trance and house",
+          "Garage and grime",
+          "Jungle and drum & bass",
+          "Folk and acoustic"
+        ],
+        "es": [
+          "Trance progresivo y house",
+          "Garage y grime",
+          "Jungle y drum & bass",
+          "Folk y acústico"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Cream in Liverpool was one of the UK's most influential superclubs throughout the 1990s, championing progressive house and trance — the same world in which Tiësto built his early international reputation.",
+        "es": "Cream en Liverpool fue uno de los superclubs más influyentes del Reino Unido durante los años 90, promoviendo el house progresivo y el trance, el mismo mundo en el que Tiësto construyó su primera reputación internacional."
+      }
+    },
+    {
+      "id": "edm_tf_015",
+      "category": "edm_culture",
+      "difficulty": "true_fan",
+      "question": {
+        "en": "What is an 'acapella' used for in DJing?",
+        "es": "¿Para qué se usa un 'acapella' en el DJing?"
+      },
+      "answers": {
+        "en": [
+          "An isolated vocal track layered over another DJ's instrumental mix",
+          "A type of DJ transition",
+          "A software plugin",
+          "A way to tune the bass"
+        ],
+        "es": [
+          "Una pista vocal aislada superpuesta sobre la mezcla instrumental de otro DJ",
+          "Un tipo de transición de DJ",
+          "Un plugin de software",
+          "Una forma de afinar el bajo"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "An acapella is an isolated vocal track stripped of instrumentation. DJs use acapellas to layer a song's vocals over an entirely different instrumental track, creating unique mashups.",
+        "es": "Un acapella es una pista vocal aislada sin instrumentación. Los DJs usan acapellas para superponer las voces de una canción sobre una pista instrumental completamente diferente, creando mashups únicos."
+      }
+    },
+    {
+      "id": "edm_tf_016",
+      "category": "edm_culture",
+      "difficulty": "true_fan",
+      "question": {
+        "en": "The DJ Mag Top 100 ranking is voted for by whom?",
+        "es": "¿Quién vota el ranking Top 100 de DJ Mag?"
+      },
+      "answers": {
+        "en": [
+          "The public — fans worldwide vote online",
+          "Industry insiders only",
+          "A panel of music journalists",
+          "Record labels"
+        ],
+        "es": [
+          "El público: fans de todo el mundo votan online",
+          "Solo personas del sector",
+          "Un panel de periodistas musicales",
+          "Los sellos discográficos"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "The DJ Mag Top 100 DJs poll is voted for entirely by fans and music listeners worldwide through an online poll, making it a reflection of popular appeal rather than critical consensus.",
+        "es": "El ranking Top 100 DJs de DJ Mag es votado íntegramente por fans y oyentes de música de todo el mundo a través de una encuesta online, lo que lo convierte en un reflejo del atractivo popular más que del consenso crítico."
+      }
+    },
+    {
+      "id": "edm_tf_017",
+      "category": "edm_culture",
+      "difficulty": "true_fan",
+      "question": {
+        "en": "Which audio format replaced CDs as the primary DJ medium by the 2010s?",
+        "es": "¿Qué formato de audio reemplazó a los CDs como principal medio de DJ en los años 2010?"
+      },
+      "answers": {
+        "en": [
+          "USB drives with digital files",
+          "Minidisc",
+          "Cassette tapes",
+          "8-track cartridges"
+        ],
+        "es": [
+          "Memorias USB con archivos digitales",
+          "MiniDisc",
+          "Cintas de cassette",
+          "Cartuchos de 8 pistas"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "By the early 2010s, USB drives containing digital audio files (MP3, WAV, AIFF) had largely replaced CDs for professional DJs, loaded into CDJs and other media players.",
+        "es": "A principios de los años 2010, las memorias USB con archivos de audio digital (MP3, WAV, AIFF) habían reemplazado en gran medida a los CDs para los DJs profesionales, cargados en CDJs y otros reproductores multimedia."
+      }
+    },
+    {
+      "id": "edm_s_001",
+      "category": "edm_culture",
+      "difficulty": "scholar",
+      "question": {
+        "en": "What is the 'Camelot Wheel' used for in DJing?",
+        "es": "¿Para qué se usa la 'Camelot Wheel' en el DJing?"
+      },
+      "answers": {
+        "en": [
+          "Harmonic mixing — finding compatible musical keys",
+          "Setting the BPM of tracks",
+          "Scheduling set times at a festival",
+          "Calibrating speaker EQ"
+        ],
+        "es": [
+          "Mezcla armónica: encontrar tonalidades musicales compatibles",
+          "Establecer el BPM de los temas",
+          "Programar los tiempos de actuación en un festival",
+          "Calibrar el ecualizador de los altavoces"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "The Camelot Wheel (developed by Mark Davis for Mixed in Key software) maps all 24 musical keys into a clock-like system, allowing DJs to quickly identify compatible keys for smooth harmonic transitions.",
+        "es": "La Camelot Wheel (desarrollada por Mark Davis para el software Mixed in Key) organiza las 24 tonalidades musicales en un sistema similar a un reloj, permitiendo a los DJs identificar rápidamente tonalidades compatibles para transiciones armónicas suaves."
+      }
+    },
+    {
+      "id": "edm_s_002",
+      "category": "edm_culture",
+      "difficulty": "scholar",
+      "question": {
+        "en": "What distinguishes 'psytrance' from uplifting trance?",
+        "es": "¿Qué distingue el 'psytrance' del uplifting trance?"
+      },
+      "answers": {
+        "en": [
+          "Psytrance is faster (140-150+ BPM), darker, more hypnotic and psychedelic with less melodic hooks",
+          "Psytrance uses acoustic instruments",
+          "Psytrance is always slower than 120 BPM",
+          "They are identical genres"
+        ],
+        "es": [
+          "El psytrance es más rápido (140-150+ BPM), más oscuro, más hipnótico y psicodélico con menos gancho melódico",
+          "El psytrance usa instrumentos acústicos",
+          "El psytrance siempre es más lento de 120 BPM",
+          "Son géneros idénticos"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Psytrance (psychedelic trance) typically runs at 140–150+ BPM with a darker, more hypnotic texture and less focus on melodic hooks compared to uplifting trance's emotional euphoria.",
+        "es": "El psytrance (trance psicodélico) generalmente corre a 140-150+ BPM con una textura más oscura e hipnótica y menos enfoque en ganchos melódicos en comparación con la euforia emocional del uplifting trance."
+      }
+    },
+    {
+      "id": "edm_s_003",
+      "category": "edm_culture",
+      "difficulty": "scholar",
+      "question": {
+        "en": "What is 'mastering' in music production?",
+        "es": "¿Qué es el 'mastering' en la producción musical?"
+      },
+      "answers": {
+        "en": [
+          "The final audio processing stage before release — maximising loudness, EQ correction and ensuring consistency across playback systems",
+          "The process of recording live instruments",
+          "Creating the initial beat structure",
+          "Mixing individual track layers"
+        ],
+        "es": [
+          "La etapa final de procesamiento de audio antes del lanzamiento: maximizar el volumen, corrección de EQ y garantizar consistencia en todos los sistemas de reproducción",
+          "El proceso de grabar instrumentos en vivo",
+          "Crear la estructura inicial del beat",
+          "Mezclar capas individuales de tracks"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Mastering is the final step in audio production where a mastering engineer optimises the stereo mix for loudness, tonal balance, and compatibility across all playback systems from club speakers to mobile earbuds.",
+        "es": "El mastering es el paso final en la producción de audio donde un ingeniero de mastering optimiza la mezcla estéreo para el volumen, el equilibrio tonal y la compatibilidad en todos los sistemas de reproducción, desde altavoces de club hasta auriculares móviles."
+      }
+    },
+    {
+      "id": "edm_s_004",
+      "category": "edm_culture",
+      "difficulty": "scholar",
+      "question": {
+        "en": "Which pioneering music technology company developed the first CDJ?",
+        "es": "¿Qué pionera empresa de tecnología musical desarrolló el primer CDJ?"
+      },
+      "answers": {
+        "en": [
+          "Pioneer DJ",
+          "Technics",
+          "Denon",
+          "Numark"
+        ],
+        "es": [
+          "Pioneer DJ",
+          "Technics",
+          "Denon",
+          "Numark"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Pioneer DJ introduced the CDJ-500 in 1994, and the CDJ-1000 in 2001, which revolutionised professional DJing and became the industry standard that replaced vinyl in most clubs.",
+        "es": "Pioneer DJ presentó el CDJ-500 en 1994 y el CDJ-1000 en 2001, que revolucionó el DJ profesional y se convirtió en el estándar de la industria que reemplazó al vinilo en la mayoría de los clubes."
+      }
+    },
+    {
+      "id": "edm_s_005",
+      "category": "edm_culture",
+      "difficulty": "scholar",
+      "question": {
+        "en": "What is 'FM synthesis' in electronic music production?",
+        "es": "¿Qué es la 'síntesis FM' en la producción de música electrónica?"
+      },
+      "answers": {
+        "en": [
+          "A synthesis method where one oscillator modulates the frequency of another, creating complex timbres",
+          "A radio broadcasting technique",
+          "A method of mixing in key",
+          "A reverb algorithm"
+        ],
+        "es": [
+          "Un método de síntesis donde un oscilador modula la frecuencia de otro, creando timbres complejos",
+          "Una técnica de radiodifusión",
+          "Un método de mezcla en tono",
+          "Un algoritmo de reverberación"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "FM (Frequency Modulation) synthesis, popularised by the Yamaha DX7 synthesiser, creates sounds by having one oscillator (the modulator) alter the frequency of another (the carrier), producing rich harmonic complexity.",
+        "es": "La síntesis FM (modulación de frecuencia), popularizada por el sintetizador Yamaha DX7, crea sonidos haciendo que un oscilador (el modulador) altere la frecuencia de otro (el portador), produciendo una rica complejidad armónica."
+      }
+    },
+    {
+      "id": "edm_s_006",
+      "category": "edm_culture",
+      "difficulty": "scholar",
+      "question": {
+        "en": "The 'Belleville Three' are considered the originators of which genre closely related to electronic dance music?",
+        "es": "¿Los 'Belleville Three' son considerados los creadores de qué género estrechamente relacionado con la música dance electrónica?"
+      },
+      "answers": {
+        "en": [
+          "Detroit Techno",
+          "Chicago House",
+          "UK Garage",
+          "Ibiza Trance"
+        ],
+        "es": [
+          "Detroit Techno",
+          "Chicago House",
+          "UK Garage",
+          "Ibiza Trance"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Juan Atkins, Derrick May, and Kevin Saunderson — known as the Belleville Three — are credited as the founding fathers of Detroit Techno, one of electronic music's most important original genres.",
+        "es": "Juan Atkins, Derrick May y Kevin Saunderson, conocidos como los Tres de Belleville, son acreditados como los padres fundadores del techno de Detroit, uno de los géneros originales más importantes de la música electrónica."
+      }
+    },
+    {
+      "id": "edm_s_007",
+      "category": "edm_culture",
+      "difficulty": "scholar",
+      "question": {
+        "en": "What is a 'white label' in vinyl DJ culture?",
+        "es": "¿Qué es un 'white label' en la cultura DJ del vinilo?"
+      },
+      "answers": {
+        "en": [
+          "An unreleased or promotional record with a plain white label and no printed info",
+          "A record pressed on white-coloured vinyl",
+          "A genre of music from the UK",
+          "A DJ technique using two identical records"
+        ],
+        "es": [
+          "Un disco no publicado o promocional con etiqueta blanca simple sin información impresa",
+          "Un disco prensado en vinilo de color blanco",
+          "Un género musical del Reino Unido",
+          "Una técnica de DJ usando dos discos idénticos"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "A white label is an unreleased or limited promotional vinyl record with a plain white label — used by DJs to preview exclusive tracks before official release, creating buzz on the dancefloor.",
+        "es": "Un white label es un disco de vinilo no publicado o de edición limitada con una etiqueta blanca simple, utilizado por los DJs para previsualizar temas exclusivos antes de su lanzamiento oficial, creando expectación en la pista de baile."
+      }
+    },
+    {
+      "id": "edm_s_008",
+      "category": "edm_culture",
+      "difficulty": "scholar",
+      "question": {
+        "en": "What is the 'loudness war' in music production?",
+        "es": "¿Qué es la 'guerra del volumen' en la producción musical?"
+      },
+      "answers": {
+        "en": [
+          "The trend of mastering music at increasingly high volumes, compressing dynamic range",
+          "A competition between DJs to play the loudest set",
+          "A debate about speaker power at clubs",
+          "The process of boosting bass frequencies"
+        ],
+        "es": [
+          "La tendencia de masterizar música a volúmenes cada vez más altos, comprimiendo el rango dinámico",
+          "Una competición entre DJs para hacer el set más alto",
+          "Un debate sobre la potencia de los altavoces en los clubs",
+          "El proceso de realzar las frecuencias de bajo"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "The loudness war refers to the music industry trend of increasingly heavy compression and limiting during mastering to make tracks sound louder — at the expense of dynamic range and audio quality.",
+        "es": "La guerra del volumen se refiere a la tendencia de la industria musical de aplicar cada vez más compresión y limitación durante el mastering para que los temas suenen más altos, a expensas del rango dinámico y la calidad del audio."
+      }
+    },
+    {
+      "id": "edm_s_009",
+      "category": "edm_culture",
+      "difficulty": "scholar",
+      "question": {
+        "en": "What does 'MIDI' stand for and what does it do?",
+        "es": "¿Qué significa 'MIDI' y qué hace?"
+      },
+      "answers": {
+        "en": [
+          "Musical Instrument Digital Interface — a protocol for electronic instruments and software to communicate",
+          "Most Important DJ Interface",
+          "Music Industry Digital Innovation",
+          "Modulated Instrument Digital Input"
+        ],
+        "es": [
+          "Musical Instrument Digital Interface: un protocolo para que los instrumentos electrónicos y el software se comuniquen",
+          "Most Important DJ Interface",
+          "Music Industry Digital Innovation",
+          "Modulated Instrument Digital Input"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "MIDI (Musical Instrument Digital Interface) is a universal communication protocol allowing electronic instruments, computers, and software to send and receive performance data like note pitch, velocity, and timing.",
+        "es": "MIDI (Musical Instrument Digital Interface) es un protocolo de comunicación universal que permite a los instrumentos electrónicos, computadoras y software enviar y recibir datos de interpretación como el tono de nota, la velocidad y el tiempo."
+      }
+    },
+    {
+      "id": "edm_s_010",
+      "category": "edm_culture",
+      "difficulty": "scholar",
+      "question": {
+        "en": "What is the significance of 'Shelter' in Rotterdam to Dutch club culture?",
+        "es": "¿Cuál es la importancia de 'Shelter' en Róterdam para la cultura de clubs holandesa?"
+      },
+      "answers": {
+        "en": [
+          "It is/was one of the Netherlands' most important underground electronic music clubs",
+          "It is a music production school",
+          "It is a record shop",
+          "It is Tiësto's hometown club"
+        ],
+        "es": [
+          "Es/era uno de los clubs de música electrónica underground más importantes de los Países Bajos",
+          "Es una escuela de producción musical",
+          "Es una tienda de discos",
+          "Es el club del pueblo natal de Tiësto"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Shelter Amsterdam and Rotterdam's club scene have been vital parts of Dutch electronic music culture, hosting underground events that have supported the trance and techno movements Tiësto emerged from.",
+        "es": "El Shelter de Ámsterdam y la escena de clubs de Róterdam han sido partes vitales de la cultura de música electrónica holandesa, acogiendo eventos underground que han apoyado los movimientos de trance y techno de los que emergió Tiësto."
+      }
+    },
+    {
+      "id": "edm_s_011",
+      "category": "edm_culture",
+      "difficulty": "scholar",
+      "question": {
+        "en": "What audio file format is preferred by professional DJs for its uncompressed quality?",
+        "es": "¿Qué formato de archivo de audio prefieren los DJs profesionales por su calidad sin comprimir?"
+      },
+      "answers": {
+        "en": [
+          "WAV or AIFF",
+          "MP3",
+          "AAC",
+          "OGG"
+        ],
+        "es": [
+          "WAV o AIFF",
+          "MP3",
+          "AAC",
+          "OGG"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "WAV and AIFF are uncompressed audio formats that preserve full audio quality. Professional DJs prefer them over compressed formats like MP3 because they sound better on high-end club speaker systems.",
+        "es": "WAV y AIFF son formatos de audio sin comprimir que preservan la calidad de audio completa. Los DJs profesionales los prefieren sobre formatos comprimidos como MP3 porque suenan mejor en sistemas de altavoces de club de alta gama."
+      }
+    },
+    {
+      "id": "edm_s_012",
+      "category": "edm_culture",
+      "difficulty": "scholar",
+      "question": {
+        "en": "What is a 'festival stage plot' in the context of a DJ performance?",
+        "es": "¿Qué es un 'plano de escenario de festival' en el contexto de una actuación de DJ?"
+      },
+      "answers": {
+        "en": [
+          "A technical document specifying equipment placement, power requirements and monitor positions for a DJ's setup",
+          "A map of the festival grounds",
+          "The DJ's set schedule",
+          "A lighting rig diagram"
+        ],
+        "es": [
+          "Un documento técnico que especifica la colocación del equipo, requisitos de energía y posiciones de los monitores para la configuración de un DJ",
+          "Un mapa del recinto del festival",
+          "El horario del set del DJ",
+          "Un diagrama del sistema de iluminación"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "A stage plot is a technical rider document that details precisely how a DJ's equipment should be set up on stage, including CDJ positioning, mixer model, monitor placement, and power requirements.",
+        "es": "Un plano de escenario es un documento técnico que detalla con precisión cómo debe configurarse el equipo de un DJ en el escenario, incluyendo la posición de los CDJs, el modelo de mezclador, la ubicación de los monitores y los requisitos de energía."
+      }
+    },
+    {
+      "id": "edm_s_013",
+      "category": "edm_culture",
+      "difficulty": "scholar",
+      "question": {
+        "en": "What is the 'Richter scale' equivalent for measuring club sound systems?",
+        "es": "¿Cuál es el equivalente de la 'escala Richter' para medir los sistemas de sonido de los clubs?"
+      },
+      "answers": {
+        "en": [
+          "There is no single standard — SPL (Sound Pressure Level) in decibels is used",
+          "The Haas scale",
+          "The Dolby index",
+          "The Pioneer rating"
+        ],
+        "es": [
+          "No existe un estándar único: se usa el SPL (nivel de presión sonora) en decibelios",
+          "La escala Haas",
+          "El índice Dolby",
+          "La clasificación Pioneer"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Sound Pressure Level (SPL), measured in decibels (dB), is the standard measure for audio volume. Professional club systems can reach 110–120+ dB SPL, with hearing damage risk above prolonged exposure to 85 dB.",
+        "es": "El nivel de presión sonora (SPL), medido en decibelios (dB), es la medida estándar del volumen de audio. Los sistemas de clubs profesionales pueden alcanzar 110-120+ dB SPL, con riesgo de daño auditivo ante exposición prolongada superior a 85 dB."
+      }
+    },
+    {
+      "id": "edm_s_014",
+      "category": "edm_culture",
+      "difficulty": "scholar",
+      "question": {
+        "en": "What is 'stem mixing' in modern DJ performance?",
+        "es": "¿Qué es el 'stem mixing' en la actuación moderna de DJ?"
+      },
+      "answers": {
+        "en": [
+          "Playing separate audio stems (drums, bass, melody) of tracks independently to allow creative real-time remixing",
+          "A type of EQ technique",
+          "A vinyl mixing method",
+          "A way to sync two CDJs"
+        ],
+        "es": [
+          "Reproducir los stems de audio separados (batería, bajo, melodía) de los temas de forma independiente para permitir remezclas creativas en tiempo real",
+          "Un tipo de técnica de EQ",
+          "Un método de mezcla con vinilo",
+          "Una forma de sincronizar dos CDJs"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Stem mixing involves having a track broken into its individual components (stems) — kick, bass, synths, vocals — allowing the DJ to mute, blend and manipulate each element live for creative performances.",
+        "es": "El stem mixing implica tener un tema dividido en sus componentes individuales (stems) — bombo, bajo, sintetizadores, voces — permitiendo al DJ silenciar, mezclar y manipular cada elemento en vivo para actuaciones creativas."
+      }
+    },
+    {
+      "id": "edm_s_015",
+      "category": "edm_culture",
+      "difficulty": "scholar",
+      "question": {
+        "en": "The 'Haçienda' nightclub in Manchester was instrumental in popularising which genre in the UK?",
+        "es": "El club nocturno 'Haçienda' en Mánchester fue fundamental para popularizar qué género en el Reino Unido?"
+      },
+      "answers": {
+        "en": [
+          "House music",
+          "Trance",
+          "Drum and bass",
+          "Ambient techno"
+        ],
+        "es": [
+          "House music",
+          "Trance",
+          "Drum and bass",
+          "Techno ambient"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "The Haçienda (1982–1997), owned partly by Factory Records and New Order, was central to bringing Chicago house and the Madchester rave scene to the UK mainstream.",
+        "es": "The Haçienda (1982-1997), parcialmente propiedad de Factory Records y New Order, fue fundamental para llevar el house de Chicago y la escena rave de Madchester al mainstream del Reino Unido."
+      }
+    },
+    {
+      "id": "edm_s_016",
+      "category": "edm_culture",
+      "difficulty": "scholar",
+      "question": {
+        "en": "What is 'zero-crossing' and why does it matter in DJ software?",
+        "es": "¿Qué es el 'cruce por cero' y por qué es importante en el software DJ?"
+      },
+      "answers": {
+        "en": [
+          "The point where an audio waveform crosses the zero amplitude line — used for seamless loop points to avoid clicks",
+          "A method of tempo detection",
+          "A type of EQ preset",
+          "A crossfade length setting"
+        ],
+        "es": [
+          "El punto donde una forma de onda de audio cruza la línea de amplitud cero, utilizado para puntos de bucle sin interrupciones y evitar clics",
+          "Un método de detección de tempo",
+          "Un tipo de preajuste de EQ",
+          "Una configuración de duración del crossfade"
+        ]
+      },
+      "correct": 0,
+      "fact": {
+        "en": "Zero-crossing refers to where an audio waveform passes through zero amplitude. DJ software places loop start/end points and cue points at zero crossings to avoid audible clicks or pops when the audio loops.",
+        "es": "El cruce por cero se refiere a donde una forma de onda de audio pasa por amplitud cero. El software DJ coloca los puntos de inicio/fin de bucle y los puntos de señal en cruces por cero para evitar clics o pops audibles cuando el audio está en bucle."
+      }
+    }
+  ]
+}
