@@ -1,6 +1,6 @@
 # Know the Drop
 
-A Flutter trivia app about DJ Tiësto.
+Where was Tiësto born? What was his first studio album? Which track lit up the Athens Olympics? You'll know these answers and more by playing **Know the Drop** — the ultimate DJ Tiësto trivia app.
 
 ## Features
 
