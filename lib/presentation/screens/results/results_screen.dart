@@ -106,6 +106,25 @@ class _ResultsScreenState extends ConsumerState<ResultsScreen> {
                       ),
                     ],
                   ),
+                  if (quizState.bestStreak >= 2) ...[
+                    const SizedBox(height: 24),
+                    Column(
+                      children: [
+                        Text(
+                          l10n.bestStreak,
+                          style: Theme.of(context).textTheme.bodyMedium,
+                        ),
+                        const SizedBox(height: 8),
+                        Text(
+                          l10n.streakCount(quizState.bestStreak),
+                          style: Theme.of(context)
+                              .textTheme
+                              .headlineMedium
+                              ?.copyWith(color: AppColors.neonGreen),
+                        ),
+                      ],
+                    ),
+                  ],
                   const SizedBox(height: 48),
                   ElevatedButton(
                     onPressed: () {

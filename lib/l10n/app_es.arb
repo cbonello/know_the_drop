@@ -22,6 +22,8 @@
   "yourScore": "Tu puntuación",
   "scoreValue": "{score} / {total}",
   "accuracyPercent": "{percent}%",
+  "streakCount": "{count} seguidas",
+  "bestStreak": "Mejor racha",
   "noQuestionsAvailable": "No hay preguntas disponibles para esta selección.",
   "quitQuiz": "Salir",
   "quitConfirmTitle": "¿Salir del quiz?",

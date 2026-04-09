@@ -39,6 +39,13 @@
       "percent": { "type": "int" }
     }
   },
+  "streakCount": "{count} in a row",
+  "@streakCount": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "bestStreak": "Best streak",
   "noQuestionsAvailable": "No questions available for this selection.",
   "quitQuiz": "Quit",
   "quitConfirmTitle": "Quit quiz?",

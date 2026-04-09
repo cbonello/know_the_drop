@@ -7,6 +7,8 @@ class QuizState {
     this.answers = const [],
     this.selectedAnswer,
     this.isAnswerRevealed = false,
+    this.currentStreak = 0,
+    this.bestStreak = 0,
   });
 
   final List<Question> questions;
@@ -14,6 +16,8 @@ class QuizState {
   final List<int> answers;
   final int? selectedAnswer;
   final bool isAnswerRevealed;
+  final int currentStreak;
+  final int bestStreak;
 
   Question get currentQuestion => questions[currentIndex];
   bool get isLastQuestion => currentIndex >= questions.length - 1;
@@ -37,6 +41,8 @@ class QuizState {
     List<int>? answers,
     int? Function()? selectedAnswer,
     bool? isAnswerRevealed,
+    int? currentStreak,
+    int? bestStreak,
   }) {
     return QuizState(
       questions: questions ?? this.questions,
@@ -46,6 +52,8 @@ class QuizState {
           ? selectedAnswer()
           : this.selectedAnswer,
       isAnswerRevealed: isAnswerRevealed ?? this.isAnswerRevealed,
+      currentStreak: currentStreak ?? this.currentStreak,
+      bestStreak: bestStreak ?? this.bestStreak,
     );
   }
 }

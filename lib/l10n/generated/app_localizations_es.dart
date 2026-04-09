@@ -81,6 +81,14 @@ class AppLocalizationsEs extends AppLocalizations {
   }
 
   @override
+  String streakCount(int count) {
+    return '$count seguidas';
+  }
+
+  @override
+  String get bestStreak => 'Mejor racha';
+
+  @override
   String get noQuestionsAvailable =>
       'No hay preguntas disponibles para esta selección.';
 

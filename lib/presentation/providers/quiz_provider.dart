@@ -6,19 +6,20 @@ import '../../domain/entities/question.dart';
 import '../../domain/entities/quiz_state.dart';
 import '../../domain/repositories/question_repository.dart';
 
-final questionRepositoryProvider = Provider<QuestionRepository>((ref) {
-  return QuestionRepositoryImpl(dataSource: LocalQuestionDataSource());
-});
+final questionRepositoryProvider = Provider<QuestionRepository>(
+  (_) => QuestionRepositoryImpl(dataSource: LocalQuestionDataSource()),
+);
 
-final selectedCategoryProvider = StateProvider<Category?>((ref) => null);
+final selectedCategoryProvider = StateProvider<Category?>((_) => null);
 
-final selectedDifficultyProvider =
-    StateProvider<Difficulty?>((ref) => Difficulty.trueFan);
+final selectedDifficultyProvider = StateProvider<Difficulty?>(
+  (ref) => Difficulty.trueFan,
+);
 
 final quizProvider =
-    StateNotifierProvider<QuizNotifier, AsyncValue<QuizState?>>((ref) {
-  return QuizNotifier(ref);
-});
+    StateNotifierProvider<QuizNotifier, AsyncValue<QuizState?>>(
+      (ref) => QuizNotifier(ref),
+    );
 
 class QuizNotifier extends StateNotifier<AsyncValue<QuizState?>> {
   QuizNotifier(this.ref) : super(const AsyncData(null));
@@ -51,20 +52,32 @@ class QuizNotifier extends StateNotifier<AsyncValue<QuizState?>> {
 
   void selectAnswer(int answerIndex) {
     final current = state.valueOrNull;
-    if (current == null || current.isAnswerRevealed) return;
+    if (current == null || current.isAnswerRevealed) {
+      return;
+    }
+
+    final isCorrect = answerIndex == current.currentQuestion.correctIndex;
+    final newStreak = isCorrect ? current.currentStreak + 1 : 0;
+    final newBest = newStreak > current.bestStreak
+        ? newStreak
+        : current.bestStreak;
 
     state = AsyncData(
       current.copyWith(
         selectedAnswer: () => answerIndex,
         isAnswerRevealed: true,
         answers: [...current.answers, answerIndex],
+        currentStreak: newStreak,
+        bestStreak: newBest,
       ),
     );
   }
 
   void nextQuestion() {
     final current = state.valueOrNull;
-    if (current == null) return;
+    if (current == null) {
+      return;
+    }
 
     state = AsyncData(
       current.copyWith(

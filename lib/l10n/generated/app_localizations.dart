@@ -230,6 +230,18 @@ abstract class AppLocalizations {
   /// **'{percent}%'**
   String accuracyPercent(int percent);
 
+  /// No description provided for @streakCount.
+  ///
+  /// In en, this message translates to:
+  /// **'{count} in a row'**
+  String streakCount(int count);
+
+  /// No description provided for @bestStreak.
+  ///
+  /// In en, this message translates to:
+  /// **'Best streak'**
+  String get bestStreak;
+
   /// No description provided for @noQuestionsAvailable.
   ///
   /// In en, this message translates to:

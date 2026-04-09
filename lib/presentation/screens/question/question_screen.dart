@@ -53,15 +53,39 @@ class QuestionScreen extends ConsumerWidget {
                 crossAxisAlignment: CrossAxisAlignment.stretch,
                 children: [
                   const SizedBox(height: 12),
-                  Align(
-                    alignment: Alignment.centerRight,
-                    child: TextButton(
-                      onPressed: () => _showQuitDialog(context, ref),
-                      child: Text(
-                        l10n.quitQuiz,
-                        style: const TextStyle(color: AppColors.mutedGray),
+                  Row(
+                    children: [
+                      if (quizState.currentStreak >= 2)
+                        Container(
+                          padding: const EdgeInsets.symmetric(
+                            horizontal: 12,
+                            vertical: 6,
+                          ),
+                          decoration: BoxDecoration(
+                            color: AppColors.neonGreen.withAlpha(30),
+                            borderRadius: BorderRadius.circular(16),
+                            border: Border.all(
+                              color: AppColors.neonGreen.withAlpha(100),
+                            ),
+                          ),
+                          child: Text(
+                            l10n.streakCount(quizState.currentStreak),
+                            style: const TextStyle(
+                              color: AppColors.neonGreen,
+                              fontWeight: FontWeight.w600,
+                              fontSize: 13,
+                            ),
+                          ),
+                        ),
+                      const Spacer(),
+                      TextButton(
+                        onPressed: () => _showQuitDialog(context, ref),
+                        child: Text(
+                          l10n.quitQuiz,
+                          style: const TextStyle(color: AppColors.mutedGray),
+                        ),
                       ),
-                    ),
+                    ],
                   ),
                   Text(
                     l10n.questionOf(
