@@ -290,6 +290,36 @@ abstract class AppLocalizations {
   /// **'Go home'**
   String get goHome;
 
+  /// No description provided for @onboardingWelcome.
+  ///
+  /// In en, this message translates to:
+  /// **'Welcome to'**
+  String get onboardingWelcome;
+
+  /// No description provided for @onboardingLine1.
+  ///
+  /// In en, this message translates to:
+  /// **'150 questions about the legendary DJ Tiësto'**
+  String get onboardingLine1;
+
+  /// No description provided for @onboardingLine2.
+  ///
+  /// In en, this message translates to:
+  /// **'Pick your category and difficulty'**
+  String get onboardingLine2;
+
+  /// No description provided for @onboardingLine3.
+  ///
+  /// In en, this message translates to:
+  /// **'Track your streaks and beat your best score'**
+  String get onboardingLine3;
+
+  /// No description provided for @onboardingStart.
+  ///
+  /// In en, this message translates to:
+  /// **'Let\'s go'**
+  String get onboardingStart;
+
   /// No description provided for @languageLabel.
   ///
   /// In en, this message translates to:

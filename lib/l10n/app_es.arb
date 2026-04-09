@@ -32,6 +32,11 @@
   "quitConfirmNo": "Continuar",
   "playAgain": "Jugar de nuevo",
   "goHome": "Ir al inicio",
+  "onboardingWelcome": "Bienvenido a",
+  "onboardingLine1": "150 preguntas sobre el legendario DJ Tiësto",
+  "onboardingLine2": "Elige tu categoría y dificultad",
+  "onboardingLine3": "Sigue tus rachas y supera tu mejor puntuación",
+  "onboardingStart": "Vamos",
   "languageLabel": "Idioma",
   "photoCredit": "Foto: Takeaway / CC BY 4.0"
 }

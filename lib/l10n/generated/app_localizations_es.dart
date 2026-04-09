@@ -114,6 +114,21 @@ class AppLocalizationsEs extends AppLocalizations {
   String get goHome => 'Ir al inicio';
 
   @override
+  String get onboardingWelcome => 'Bienvenido a';
+
+  @override
+  String get onboardingLine1 => '150 preguntas sobre el legendario DJ Tiësto';
+
+  @override
+  String get onboardingLine2 => 'Elige tu categoría y dificultad';
+
+  @override
+  String get onboardingLine3 => 'Sigue tus rachas y supera tu mejor puntuación';
+
+  @override
+  String get onboardingStart => 'Vamos';
+
+  @override
   String get languageLabel => 'Idioma';
 
   @override
