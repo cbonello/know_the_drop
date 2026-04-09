@@ -9,6 +9,7 @@ import '../../../domain/entities/question.dart';
 import '../../../l10n/generated/app_localizations.dart';
 import '../../providers/locale_provider.dart';
 import '../../providers/quiz_provider.dart';
+import '../../providers/score_provider.dart';
 
 class HomeScreen extends ConsumerWidget {
   const HomeScreen({super.key});
@@ -104,43 +105,60 @@ class HomeScreen extends ConsumerWidget {
           const SizedBox(height: 28),
 
           // Stats row
-          Row(
-            children: [
-              Expanded(
-                child: Column(
-                  crossAxisAlignment: CrossAxisAlignment.start,
+          Consumer(
+            builder: (context, ref, _) {
+              final scoreAsync = ref.watch(bestScoreProvider);
+              return scoreAsync.when(
+                loading: () => const SizedBox(height: 60),
+                error: (_, _) => const SizedBox(height: 60),
+                data: (record) => Row(
                   children: [
-                    Text(
-                      l10n.yourBestScore,
-                      style: Theme.of(context).textTheme.bodyMedium,
+                    Expanded(
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          Text(
+                            l10n.yourBestScore,
+                            style: Theme.of(context).textTheme.bodyMedium,
+                          ),
+                          const SizedBox(height: 4),
+                          Text(
+                            record.hasData
+                                ? l10n.scoreValue(record.bestScore, 10)
+                                : '—',
+                            style: Theme.of(context)
+                                .textTheme
+                                .headlineMedium
+                                ?.copyWith(color: AppColors.white),
+                          ),
+                        ],
+                      ),
                     ),
-                    const SizedBox(height: 4),
-                    Text(
-                      '—',
-                      style: Theme.of(context).textTheme.headlineMedium
-                          ?.copyWith(color: AppColors.white),
+                    Expanded(
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          Text(
+                            l10n.accuracy,
+                            style: Theme.of(context).textTheme.bodyMedium,
+                          ),
+                          const SizedBox(height: 4),
+                          Text(
+                            record.hasData
+                                ? l10n.accuracyPercent(record.bestAccuracy)
+                                : '—',
+                            style: Theme.of(context)
+                                .textTheme
+                                .headlineMedium
+                                ?.copyWith(color: AppColors.neonGreen),
+                          ),
+                        ],
+                      ),
                     ),
                   ],
                 ),
-              ),
-              Expanded(
-                child: Column(
-                  crossAxisAlignment: CrossAxisAlignment.start,
-                  children: [
-                    Text(
-                      l10n.accuracy,
-                      style: Theme.of(context).textTheme.bodyMedium,
-                    ),
-                    const SizedBox(height: 4),
-                    Text(
-                      '—',
-                      style: Theme.of(context).textTheme.headlineMedium
-                          ?.copyWith(color: AppColors.neonGreen),
-                    ),
-                  ],
-                ),
-              ),
-            ],
+              );
+            },
           ),
           const SizedBox(height: 36),
 

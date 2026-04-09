@@ -7,12 +7,30 @@ import '../../../core/router/app_router.dart';
 import '../../../core/theme/app_theme.dart';
 import '../../../l10n/generated/app_localizations.dart';
 import '../../providers/quiz_provider.dart';
+import '../../providers/score_provider.dart';
 
-class ResultsScreen extends ConsumerWidget {
+class ResultsScreen extends ConsumerStatefulWidget {
   const ResultsScreen({super.key});
 
   @override
-  Widget build(BuildContext context, WidgetRef ref) {
+  ConsumerState<ResultsScreen> createState() => _ResultsScreenState();
+}
+
+class _ResultsScreenState extends ConsumerState<ResultsScreen> {
+  bool _scoreSaved = false;
+
+  void _saveScore(int score, int accuracy) {
+    if (_scoreSaved) return;
+    _scoreSaved = true;
+    ref.read(scoreRepositoryProvider).saveScore(
+      score: score,
+      accuracy: accuracy,
+    );
+    ref.invalidate(bestScoreProvider);
+  }
+
+  @override
+  Widget build(BuildContext context) {
     final l10n = AppLocalizations.of(context)!;
     final screenSize = Breakpoints.of(context);
     final quizAsync = ref.watch(quizProvider);
@@ -29,6 +47,8 @@ class ResultsScreen extends ConsumerWidget {
               });
               return const SizedBox.shrink();
             }
+
+            _saveScore(quizState.correctCount, quizState.accuracyPercent);
 
             final content = Padding(
               padding: EdgeInsets.symmetric(
